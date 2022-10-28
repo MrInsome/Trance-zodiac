@@ -29,3 +29,8 @@ login/log/java5.log
 login/log/java6.log
 login/log/java7.log
 login/log/java8.log
+game/log/accounting0.log
+game/log/error0.log
+game/log/java0.log
+game/log/olympiad.csv
+login/log/java0.log

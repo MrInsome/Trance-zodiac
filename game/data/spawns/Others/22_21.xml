@@ -4,11 +4,8 @@
 		<group>
 			<npc id="81003" x="84744" y="130432" z="-3608" heading="50209" respawnTime="60sec" /> <!-- Othelo -->
 			<npc id="81003" x="84721" y="130436" z="-3592" heading="63289" respawnTime="60sec" /> <!-- Othelo -->
-			<npc id="81004" count="5" x="85477" y="130811" z="-3632" heading="4104" respawnTime="60sec" /> <!-- Yully -->
-			<npc id="81006" count="5" x="85477" y="130811" z="-3632" heading="4104" respawnTime="60sec" /> <!-- Isda -->
-			<npc id="81007" count="5" x="85477" y="130811" z="-3632" heading="4104" respawnTime="60sec" /> <!-- Aorta -->
 			<npc id="81008" count="5" x="85477" y="130811" z="-3632" heading="4104" respawnTime="60sec" /> <!-- Breezer -->
-			<npc id="81009" count="5" x="85477" y="130811" z="-3632" heading="4104" respawnTime="60sec" /> <!-- Hoppy -->
+			<npc id="81006" x="86125" y="130738" z="-3632" heading="61538" respawnTime="60sec" /> <!-- Isda -->
 		</group>
 	</spawn>
 </list>

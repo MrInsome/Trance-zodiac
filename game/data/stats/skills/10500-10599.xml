@@ -666,11 +666,11 @@
 					<value level="10">44430</value>
 					<value level="11">46490</value>
 					<value level="12">49080</value>
-					<value level="13">51660</value>
+					<value level="13">516600</value>
 					<value fromLevel="7" toLevel="13" fromSubLevel="1001" toSubLevel="1020">{base + (base / 100 * subIndex)}</value>
 					<value fromLevel="7" toLevel="13" fromSubLevel="2001" toSubLevel="2020">{base + (base / 100 * (5 + subIndex))}</value>
 				</power>
-				<criticalChance>60</criticalChance>
+				<criticalChance>100</criticalChance>
 				<chanceBoost>365</chanceBoost>
 				<overHit>true</overHit>
 			</effect>

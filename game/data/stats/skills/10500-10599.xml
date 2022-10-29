@@ -675,7 +675,7 @@
 				<overHit>true</overHit>
 			</effect>
 			<effect name="Lethal">
-				<fullLethal>0</fullLethal>
+				<fullLethal>100</fullLethal>
 				<halfLethal>15</halfLethal>
 			</effect>
 		</effects>

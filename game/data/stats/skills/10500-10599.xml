@@ -23,7 +23,7 @@
 		</conditions>
 		<effects>
 			<effect name="PhysicalAttack">
-				<power>24000</power>
+				<power>240000</power>
 			</effect>
 		</effects>
 	</skill>
@@ -158,7 +158,7 @@
 					<value level="7">1629</value>
 					<value level="8">1728</value>
 					<value level="9">1833</value>
-					<value level="10">1945</value>
+					<value level="10">19450</value>
 				</amount>
 				<mode>DIFF</mode>
 				<weaponType>
@@ -386,11 +386,11 @@
 				<mode>PER</mode>
 			</effect>
 			<effect name="PhysicalSkillCriticalRate">
-				<amount>10</amount>
+				<amount>60</amount>
 				<mode>PER</mode>
 			</effect>
 			<effect name="PhysicalSkillPower">
-				<amount>10</amount>
+				<amount>60</amount>
 				<mode>PER</mode>
 			</effect>
 		</effects>
@@ -513,7 +513,7 @@
 			<value level="13">-714</value>
 		</effectPoint>
 		<isDebuff>true</isDebuff>
-		<basicProperty>NONE</basicProperty>
+		<basicProperty>PHYSICAL</basicProperty>
 		<trait>BLEED</trait>
 		<targetType>ENEMY</targetType>
 		<affectScope>SINGLE</affectScope>

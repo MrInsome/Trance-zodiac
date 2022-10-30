@@ -40,4 +40,6 @@ int recommends, int nobleLevel, boolean hero, int clanId, int pledgeStatus -->
 	<fakePlayer npcId="81011" classId="166" hair="0" hairColor="0" face="0" equipRHand="36505" equipHead="37220" equipGloves="35046" equipChest="35044" equipLegs="35045" equipFeet="35047" equipCloak="21719" />
 	<!-- TH -->
 	<fakePlayer npcId="81012" classId="158" hair="0" hairColor="0" face="0" equipRHand="80318" equipHead="37220" equipGloves="35046" equipChest="35044" equipLegs="35045" equipFeet="35047" equipCloak="21719" />
+	<!--Yul Tricketer -->
+	<fakePlayer npcId="81013" classId="165" hair="0" hairColor="0" face="0" equipRHand="81992" equipHead="37220" equipGloves="46545" equipChest="46543" equipLegs="46544" equipFeet="46546" equipCloak="34997" />
 </list>

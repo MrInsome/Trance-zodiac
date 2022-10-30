@@ -414,4 +414,40 @@
 			<skill id="11134" level="1" /> <!-- Merheor -->
 		</skillList>
 	</npc>
+		<!-- TH -->
+	<npc id="81012" level="130" type="Monster" name="ТХСИЛА" title="Что-то на арабском">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="140" int="71" dex="75" wit="114" con="190" men="41">
+			<vitals hp="240000" hpRegen="1000.8" mp="37270" mpRegen="1000.0" />
+			<attack physical="213000" magical="146000" random="30" critical="500" accuracy="168" attackSpeed="1500" type="DUALDAGGER" range="40" distance="80" width="120" />
+			<defence physical="78000" magical="80000" />
+			<attribute>
+				<defence fire="450" water="450" wind="450" earth="450" holy="450" dark="450" />
+				<attack type="WATER" value="1500" />
+			</attribute>
+			<speed>
+				<walk ground="300" />
+				<run ground="350" />
+			</speed>
+		</stats>
+		<status fakePlayer="true" talkable="false" randomAnimation="false" randomWalk="false" attackable="true" />
+		<ai type="FIGHTER" clanHelpRange="1000" aggroRange="1000" isAggressive="true"> <!-- FIGHTER, ARCHER, BALANCED, MAGE, HEALER -->
+			<clanList>
+				<clan>FAKE_PLAYER</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="7" />
+			<height normal="27" />
+		</collision>
+		<parameters>
+			<skill name="Skill01_ID" id="10267" level="4" />
+			<skill name="Skill02_ID" id="1760" level="5" />
+		</parameters>
+		<skillList>
+			<skill id="344" level="1" /> <!-- LethalBlow -->
+			<skill id="358" level="1" /> <!--Bluff  -->
+		</skillList>
+	</npc>
 </list>

@@ -38,4 +38,6 @@ int recommends, int nobleLevel, boolean hero, int clanId, int pledgeStatus -->
 	<fakePlayer npcId="81010" classId="152" hair="0" hairColor="0" face="0" equipRHand="37879" equipHead="23183" equipGloves="23181" equipChest="23179" equipLegs="23180" equipFeet="23182" equipCloak="37093" />
 	<!-- Feoh Archmage -->
 	<fakePlayer npcId="81011" classId="166" hair="0" hairColor="0" face="0" equipRHand="36505" equipHead="37220" equipGloves="35046" equipChest="35044" equipLegs="35045" equipFeet="35047" equipCloak="21719" />
+	<!-- TH -->
+	<fakePlayer npcId="81012" classId="158" hair="0" hairColor="0" face="0" equipRHand="80318" equipHead="37220" equipGloves="35046" equipChest="35044" equipLegs="35045" equipFeet="35047" equipCloak="21719" />
 </list>

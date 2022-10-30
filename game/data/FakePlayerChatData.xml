@@ -8,7 +8,7 @@
 	<fakePlayerChat fpcName="ALL" searchMethod="EQUALS" searchText="here?" answers="yes;busy;i look for something" />
 	<fakePlayerChat fpcName="ALL" searchMethod="EQUALS" searchText="whats up?" answers="good;busy;i look for something" />
 	<fakePlayerChat fpcName="ALL" searchMethod="EQUALS" searchText="what?" answers="something :P;something for me" />
-	<fakePlayerChat fpcName="ALL" searchMethod="EQUALS" searchText="why?" answers="because;i don't know;what?" />
+	<fakePlayerChat fpcName="ALL" searchMethod="EQUALS" searchText="why?" answers="SOSI BEBRU" />
 	<fakePlayerChat fpcName="ALL" searchMethod="EQUALS" searchText="really" answers="really;yes;of course" />
 	<fakePlayerChat fpcName="ALL" searchMethod="EQUALS" searchText="thanks" answers=":);:D;:*" />
 	<fakePlayerChat fpcName="ALL" searchMethod="EQUALS" searchText="thank you" answers=":);:D;:*" />

@@ -34,4 +34,6 @@ int recommends, int nobleLevel, boolean hero, int clanId, int pledgeStatus -->
 	<fakePlayer npcId="81008" classId="188" hair="0" hairColor="0" face="0" equipRHand="37872" equipHead="37215" equipGloves="37216" equipChest="37213" equipLegs="37214" equipFeet="37217" equipCloak="40200" />
 	<!-- Sayha's Seer -->
 	<fakePlayer npcId="81009" classId="189" hair="0" hairColor="0" face="0" equipRHand="37878" equipHead="37220" equipGloves="37221" equipChest="37218" equipLegs="37219" equipFeet="37222" equipCloak="40201" />
+		<!-- Tyrr Gladiator -->
+	<fakePlayer npcId="81010" classId="152" hair="0" hairColor="0" face="0" equipRHand="37879" equipHead="23183" equipGloves="23181" equipChest="23179" equipLegs="23180" equipFeet="23181" equipCloak="37093" />
 </list>

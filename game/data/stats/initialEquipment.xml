@@ -37,6 +37,41 @@
 		<item id="80959" count="1" /> <!-- Epic Talisman -->
 		<item id="39657" count="1" /> <!-- Venir's Talisman Lv. 24  -->
 		<item id="81769" count="1" /> <!-- Talisman of Protection Lv. 10 -->
+			<item id="3031" count="100000" /> <!--Spirit Ore -->
+		<item id="1785" count="100000" /> <!--Soulstone -->
+		<item id="57" count="100000000" /> <!--Adena -->
+		<item id="48786" count="1" /> <!--Greater Opal Lv. 5  -->
+		<item id="48790" count="1" /> <!--Greater Emerald (Lv. 5)  -->
+		<item id="81821" count="1" /> <!--Cara's Talisman  -->
+		<item id="29462" count="1" /> <!--Greater Amethyst Lv. 5  -->
+		<item id="81696" count="1" /> <!--Superior Artifact Book  -->
+		<item id="48957" count="1" /> <!--Artifact - P. Atk. Fighting Spirit  -->
+		<item id="80648" count="1" /> <!--Artifact - P. Skill Critical Damage Fighting Spirit  -->
+		<item id="81431" count="1" /> <!--Artifact - P. Skill Power Attack  -->
+		<item id="48963" count="1" /> <!-- Artifact - Max HP Protection  -->
+		<item id="81433" count="1" /> <!-- Artifact - Attribute Resistance Defense  -->
+		<item id="81435" count="1" /> <!-- Artifact - Received P. Critical Damage Defense -->
+		<item id="82193" count="1" /> <!--"Artifact - Damage  -->
+		<item id="82194" count="1" /> <!--Artifact - P./ M. Def  -->
+		<item id="48980" count="1" /> <!--Artifact - Attack Attribute Balance -->
+		<item id="48981" count="1" /> <!--Artifact - Defense Attribute Balance  -->
+		<item id="48969" count="1" /> <!--Artifact - P. Atk. Balance  -->
+		<item id="48974" count="1" /> <!--Artifact - P. Skill Critical Rate Balance  -->
+		<item id="80656" count="1" /> <!--Artifact - P. Def. Balance   -->
+		<item id="80657" count="1" /> <!--Artifact - M. Def. Balance   -->
+		<item id="80658" count="1" /> <!-- Artifact - Normal Attack Critical Damage Balance  -->
+		<item id="82192" count="1" /> <!--Artifact - Basic Attack Power  -->
+		<item id="48973" count="1" /> <!--Artifact - P. Critical Rate Balance  -->
+		<item id="48985" count="1" /> <!--Artifact - Fixed Damage Reduction Balance  -->
+		<item id="48577" count="1" /> <!--Superior Seed Bracelet Lv. 4  -->
+		<item id="80940" count="1" /> <!--Greater Agathion Taurus Charm  -->
+		<item id="80936" count="1" /> <!--Greater Agathion Virgo Charm  -->
+		<item id="80941" count="1" /> <!--Greater Agathion Leo Charm  -->
+		<item id="80947" count="1" /> <!--Greater Agathion Cancer Charm  -->
+		<item id="80943" count="1" /> <!--Greater Agathion Scorpio Charm  -->
+		<item id="81084" count="1" /> <!--Legendary Dye Lv. 10 (P. Skill Critical Damage)  -->
+		<item id="81064" count="1" /> <!--Legendary Dye Lv. 10 (P. Atk.)  -->
+		<item id="81094" count="1" /> <!--Legendary Dye Lv. 10 (P. Skill Power)  -->
 	</equipment>
 	<!-- Human Mystic -->
 	<equipment classId="10">
@@ -87,6 +122,41 @@
 		<item id="80959" count="1" /> <!-- Epic Talisman -->
 		<item id="39657" count="1" /> <!-- Venir's Talisman Lv. 24  -->
 		<item id="81769" count="1" /> <!-- Talisman of Protection Lv. 10 -->
+			<item id="3031" count="100000" /> <!--Spirit Ore -->
+		<item id="1785" count="100000" /> <!--Soulstone -->
+		<item id="57" count="100000000" /> <!--Adena -->
+		<item id="48786" count="1" /> <!--Greater Opal Lv. 5  -->
+		<item id="48790" count="1" /> <!--Greater Emerald (Lv. 5)  -->
+		<item id="81821" count="1" /> <!--Cara's Talisman  -->
+		<item id="29462" count="1" /> <!--Greater Amethyst Lv. 5  -->
+		<item id="81696" count="1" /> <!--Superior Artifact Book  -->
+		<item id="48957" count="1" /> <!--Artifact - P. Atk. Fighting Spirit  -->
+		<item id="80648" count="1" /> <!--Artifact - P. Skill Critical Damage Fighting Spirit  -->
+		<item id="81431" count="1" /> <!--Artifact - P. Skill Power Attack  -->
+		<item id="48963" count="1" /> <!-- Artifact - Max HP Protection  -->
+		<item id="81433" count="1" /> <!-- Artifact - Attribute Resistance Defense  -->
+		<item id="81435" count="1" /> <!-- Artifact - Received P. Critical Damage Defense -->
+		<item id="82193" count="1" /> <!--"Artifact - Damage  -->
+		<item id="82194" count="1" /> <!--Artifact - P./ M. Def  -->
+		<item id="48980" count="1" /> <!--Artifact - Attack Attribute Balance -->
+		<item id="48981" count="1" /> <!--Artifact - Defense Attribute Balance  -->
+		<item id="48969" count="1" /> <!--Artifact - P. Atk. Balance  -->
+		<item id="48974" count="1" /> <!--Artifact - P. Skill Critical Rate Balance  -->
+		<item id="80656" count="1" /> <!--Artifact - P. Def. Balance   -->
+		<item id="80657" count="1" /> <!--Artifact - M. Def. Balance   -->
+		<item id="80658" count="1" /> <!-- Artifact - Normal Attack Critical Damage Balance  -->
+		<item id="82192" count="1" /> <!--Artifact - Basic Attack Power  -->
+		<item id="48973" count="1" /> <!--Artifact - P. Critical Rate Balance  -->
+		<item id="48985" count="1" /> <!--Artifact - Fixed Damage Reduction Balance  -->
+		<item id="48577" count="1" /> <!--Superior Seed Bracelet Lv. 4  -->
+		<item id="80940" count="1" /> <!--Greater Agathion Taurus Charm  -->
+		<item id="80936" count="1" /> <!--Greater Agathion Virgo Charm  -->
+		<item id="80941" count="1" /> <!--Greater Agathion Leo Charm  -->
+		<item id="80947" count="1" /> <!--Greater Agathion Cancer Charm  -->
+		<item id="80943" count="1" /> <!--Greater Agathion Scorpio Charm  -->
+		<item id="81084" count="1" /> <!--Legendary Dye Lv. 10 (P. Skill Critical Damage)  -->
+		<item id="81064" count="1" /> <!--Legendary Dye Lv. 10 (P. Atk.)  -->
+		<item id="81094" count="1" /> <!--Legendary Dye Lv. 10 (P. Skill Power)  -->
 	</equipment>
 	<!-- Elven Mystic -->
 	<equipment classId="25">
@@ -137,6 +207,41 @@
 		<item id="80959" count="1" /> <!-- Epic Talisman -->
 		<item id="39657" count="1" /> <!-- Venir's Talisman Lv. 24  -->
 		<item id="81769" count="1" /> <!-- Talisman of Protection Lv. 10 -->
+			<item id="3031" count="100000" /> <!--Spirit Ore -->
+		<item id="1785" count="100000" /> <!--Soulstone -->
+		<item id="57" count="100000000" /> <!--Adena -->
+		<item id="48786" count="1" /> <!--Greater Opal Lv. 5  -->
+		<item id="48790" count="1" /> <!--Greater Emerald (Lv. 5)  -->
+		<item id="81821" count="1" /> <!--Cara's Talisman  -->
+		<item id="29462" count="1" /> <!--Greater Amethyst Lv. 5  -->
+		<item id="81696" count="1" /> <!--Superior Artifact Book  -->
+		<item id="48957" count="1" /> <!--Artifact - P. Atk. Fighting Spirit  -->
+		<item id="80648" count="1" /> <!--Artifact - P. Skill Critical Damage Fighting Spirit  -->
+		<item id="81431" count="1" /> <!--Artifact - P. Skill Power Attack  -->
+		<item id="48963" count="1" /> <!-- Artifact - Max HP Protection  -->
+		<item id="81433" count="1" /> <!-- Artifact - Attribute Resistance Defense  -->
+		<item id="81435" count="1" /> <!-- Artifact - Received P. Critical Damage Defense -->
+		<item id="82193" count="1" /> <!--"Artifact - Damage  -->
+		<item id="82194" count="1" /> <!--Artifact - P./ M. Def  -->
+		<item id="48980" count="1" /> <!--Artifact - Attack Attribute Balance -->
+		<item id="48981" count="1" /> <!--Artifact - Defense Attribute Balance  -->
+		<item id="48969" count="1" /> <!--Artifact - P. Atk. Balance  -->
+		<item id="48974" count="1" /> <!--Artifact - P. Skill Critical Rate Balance  -->
+		<item id="80656" count="1" /> <!--Artifact - P. Def. Balance   -->
+		<item id="80657" count="1" /> <!--Artifact - M. Def. Balance   -->
+		<item id="80658" count="1" /> <!-- Artifact - Normal Attack Critical Damage Balance  -->
+		<item id="82192" count="1" /> <!--Artifact - Basic Attack Power  -->
+		<item id="48973" count="1" /> <!--Artifact - P. Critical Rate Balance  -->
+		<item id="48985" count="1" /> <!--Artifact - Fixed Damage Reduction Balance  -->
+		<item id="48577" count="1" /> <!--Superior Seed Bracelet Lv. 4  -->
+		<item id="80940" count="1" /> <!--Greater Agathion Taurus Charm  -->
+		<item id="80936" count="1" /> <!--Greater Agathion Virgo Charm  -->
+		<item id="80941" count="1" /> <!--Greater Agathion Leo Charm  -->
+		<item id="80947" count="1" /> <!--Greater Agathion Cancer Charm  -->
+		<item id="80943" count="1" /> <!--Greater Agathion Scorpio Charm  -->
+		<item id="81084" count="1" /> <!--Legendary Dye Lv. 10 (P. Skill Critical Damage)  -->
+		<item id="81064" count="1" /> <!--Legendary Dye Lv. 10 (P. Atk.)  -->
+		<item id="81094" count="1" /> <!--Legendary Dye Lv. 10 (P. Skill Power)  -->
 	</equipment>
 	<!-- Dark Mystic -->
 	<equipment classId="38">
@@ -187,6 +292,41 @@
 		<item id="80959" count="1" /> <!-- Epic Talisman -->
 		<item id="39657" count="1" /> <!-- Venir's Talisman Lv. 24  -->
 		<item id="81769" count="1" /> <!-- Talisman of Protection Lv. 10 -->
+			<item id="3031" count="100000" /> <!--Spirit Ore -->
+		<item id="1785" count="100000" /> <!--Soulstone -->
+		<item id="57" count="100000000" /> <!--Adena -->
+		<item id="48786" count="1" /> <!--Greater Opal Lv. 5  -->
+		<item id="48790" count="1" /> <!--Greater Emerald (Lv. 5)  -->
+		<item id="81821" count="1" /> <!--Cara's Talisman  -->
+		<item id="29462" count="1" /> <!--Greater Amethyst Lv. 5  -->
+		<item id="81696" count="1" /> <!--Superior Artifact Book  -->
+		<item id="48957" count="1" /> <!--Artifact - P. Atk. Fighting Spirit  -->
+		<item id="80648" count="1" /> <!--Artifact - P. Skill Critical Damage Fighting Spirit  -->
+		<item id="81431" count="1" /> <!--Artifact - P. Skill Power Attack  -->
+		<item id="48963" count="1" /> <!-- Artifact - Max HP Protection  -->
+		<item id="81433" count="1" /> <!-- Artifact - Attribute Resistance Defense  -->
+		<item id="81435" count="1" /> <!-- Artifact - Received P. Critical Damage Defense -->
+		<item id="82193" count="1" /> <!--"Artifact - Damage  -->
+		<item id="82194" count="1" /> <!--Artifact - P./ M. Def  -->
+		<item id="48980" count="1" /> <!--Artifact - Attack Attribute Balance -->
+		<item id="48981" count="1" /> <!--Artifact - Defense Attribute Balance  -->
+		<item id="48969" count="1" /> <!--Artifact - P. Atk. Balance  -->
+		<item id="48974" count="1" /> <!--Artifact - P. Skill Critical Rate Balance  -->
+		<item id="80656" count="1" /> <!--Artifact - P. Def. Balance   -->
+		<item id="80657" count="1" /> <!--Artifact - M. Def. Balance   -->
+		<item id="80658" count="1" /> <!-- Artifact - Normal Attack Critical Damage Balance  -->
+		<item id="82192" count="1" /> <!--Artifact - Basic Attack Power  -->
+		<item id="48973" count="1" /> <!--Artifact - P. Critical Rate Balance  -->
+		<item id="48985" count="1" /> <!--Artifact - Fixed Damage Reduction Balance  -->
+		<item id="48577" count="1" /> <!--Superior Seed Bracelet Lv. 4  -->
+		<item id="80940" count="1" /> <!--Greater Agathion Taurus Charm  -->
+		<item id="80936" count="1" /> <!--Greater Agathion Virgo Charm  -->
+		<item id="80941" count="1" /> <!--Greater Agathion Leo Charm  -->
+		<item id="80947" count="1" /> <!--Greater Agathion Cancer Charm  -->
+		<item id="80943" count="1" /> <!--Greater Agathion Scorpio Charm  -->
+		<item id="81084" count="1" /> <!--Legendary Dye Lv. 10 (P. Skill Critical Damage)  -->
+		<item id="81064" count="1" /> <!--Legendary Dye Lv. 10 (P. Atk.)  -->
+		<item id="81094" count="1" /> <!--Legendary Dye Lv. 10 (P. Skill Power)  -->
 	</equipment>
 	<!-- Orc Mystic -->
 	<equipment classId="49">
@@ -237,6 +377,41 @@
 		<item id="80959" count="1" /> <!-- Epic Talisman -->
 		<item id="39657" count="1" /> <!-- Venir's Talisman Lv. 24  -->
 		<item id="81769" count="1" /> <!-- Talisman of Protection Lv. 10 -->
+			<item id="3031" count="100000" /> <!--Spirit Ore -->
+		<item id="1785" count="100000" /> <!--Soulstone -->
+		<item id="57" count="100000000" /> <!--Adena -->
+		<item id="48786" count="1" /> <!--Greater Opal Lv. 5  -->
+		<item id="48790" count="1" /> <!--Greater Emerald (Lv. 5)  -->
+		<item id="81821" count="1" /> <!--Cara's Talisman  -->
+		<item id="29462" count="1" /> <!--Greater Amethyst Lv. 5  -->
+		<item id="81696" count="1" /> <!--Superior Artifact Book  -->
+		<item id="48957" count="1" /> <!--Artifact - P. Atk. Fighting Spirit  -->
+		<item id="80648" count="1" /> <!--Artifact - P. Skill Critical Damage Fighting Spirit  -->
+		<item id="81431" count="1" /> <!--Artifact - P. Skill Power Attack  -->
+		<item id="48963" count="1" /> <!-- Artifact - Max HP Protection  -->
+		<item id="81433" count="1" /> <!-- Artifact - Attribute Resistance Defense  -->
+		<item id="81435" count="1" /> <!-- Artifact - Received P. Critical Damage Defense -->
+		<item id="82193" count="1" /> <!--"Artifact - Damage  -->
+		<item id="82194" count="1" /> <!--Artifact - P./ M. Def  -->
+		<item id="48980" count="1" /> <!--Artifact - Attack Attribute Balance -->
+		<item id="48981" count="1" /> <!--Artifact - Defense Attribute Balance  -->
+		<item id="48969" count="1" /> <!--Artifact - P. Atk. Balance  -->
+		<item id="48974" count="1" /> <!--Artifact - P. Skill Critical Rate Balance  -->
+		<item id="80656" count="1" /> <!--Artifact - P. Def. Balance   -->
+		<item id="80657" count="1" /> <!--Artifact - M. Def. Balance   -->
+		<item id="80658" count="1" /> <!-- Artifact - Normal Attack Critical Damage Balance  -->
+		<item id="82192" count="1" /> <!--Artifact - Basic Attack Power  -->
+		<item id="48973" count="1" /> <!--Artifact - P. Critical Rate Balance  -->
+		<item id="48985" count="1" /> <!--Artifact - Fixed Damage Reduction Balance  -->
+		<item id="48577" count="1" /> <!--Superior Seed Bracelet Lv. 4  -->
+		<item id="80940" count="1" /> <!--Greater Agathion Taurus Charm  -->
+		<item id="80936" count="1" /> <!--Greater Agathion Virgo Charm  -->
+		<item id="80941" count="1" /> <!--Greater Agathion Leo Charm  -->
+		<item id="80947" count="1" /> <!--Greater Agathion Cancer Charm  -->
+		<item id="80943" count="1" /> <!--Greater Agathion Scorpio Charm  -->
+		<item id="81084" count="1" /> <!--Legendary Dye Lv. 10 (P. Skill Critical Damage)  -->
+		<item id="81064" count="1" /> <!--Legendary Dye Lv. 10 (P. Atk.)  -->
+		<item id="81094" count="1" /> <!--Legendary Dye Lv. 10 (P. Skill Power)  -->
 	</equipment>
 	<!-- Male Kamael Soldier -->
 	<equipment classId="123">
@@ -275,6 +450,41 @@
 		<item id="80959" count="1" /> <!-- Epic Talisman -->
 		<item id="39657" count="1" /> <!-- Venir's Talisman Lv. 24  -->
 		<item id="81769" count="1" /> <!-- Talisman of Protection Lv. 10 -->
+			<item id="3031" count="100000" /> <!--Spirit Ore -->
+		<item id="1785" count="100000" /> <!--Soulstone -->
+		<item id="57" count="100000000" /> <!--Adena -->
+		<item id="48786" count="1" /> <!--Greater Opal Lv. 5  -->
+		<item id="48790" count="1" /> <!--Greater Emerald (Lv. 5)  -->
+		<item id="81821" count="1" /> <!--Cara's Talisman  -->
+		<item id="29462" count="1" /> <!--Greater Amethyst Lv. 5  -->
+		<item id="81696" count="1" /> <!--Superior Artifact Book  -->
+		<item id="48957" count="1" /> <!--Artifact - P. Atk. Fighting Spirit  -->
+		<item id="80648" count="1" /> <!--Artifact - P. Skill Critical Damage Fighting Spirit  -->
+		<item id="81431" count="1" /> <!--Artifact - P. Skill Power Attack  -->
+		<item id="48963" count="1" /> <!-- Artifact - Max HP Protection  -->
+		<item id="81433" count="1" /> <!-- Artifact - Attribute Resistance Defense  -->
+		<item id="81435" count="1" /> <!-- Artifact - Received P. Critical Damage Defense -->
+		<item id="82193" count="1" /> <!--"Artifact - Damage  -->
+		<item id="82194" count="1" /> <!--Artifact - P./ M. Def  -->
+		<item id="48980" count="1" /> <!--Artifact - Attack Attribute Balance -->
+		<item id="48981" count="1" /> <!--Artifact - Defense Attribute Balance  -->
+		<item id="48969" count="1" /> <!--Artifact - P. Atk. Balance  -->
+		<item id="48974" count="1" /> <!--Artifact - P. Skill Critical Rate Balance  -->
+		<item id="80656" count="1" /> <!--Artifact - P. Def. Balance   -->
+		<item id="80657" count="1" /> <!--Artifact - M. Def. Balance   -->
+		<item id="80658" count="1" /> <!-- Artifact - Normal Attack Critical Damage Balance  -->
+		<item id="82192" count="1" /> <!--Artifact - Basic Attack Power  -->
+		<item id="48973" count="1" /> <!--Artifact - P. Critical Rate Balance  -->
+		<item id="48985" count="1" /> <!--Artifact - Fixed Damage Reduction Balance  -->
+		<item id="48577" count="1" /> <!--Superior Seed Bracelet Lv. 4  -->
+		<item id="80940" count="1" /> <!--Greater Agathion Taurus Charm  -->
+		<item id="80936" count="1" /> <!--Greater Agathion Virgo Charm  -->
+		<item id="80941" count="1" /> <!--Greater Agathion Leo Charm  -->
+		<item id="80947" count="1" /> <!--Greater Agathion Cancer Charm  -->
+		<item id="80943" count="1" /> <!--Greater Agathion Scorpio Charm  -->
+		<item id="81084" count="1" /> <!--Legendary Dye Lv. 10 (P. Skill Critical Damage)  -->
+		<item id="81064" count="1" /> <!--Legendary Dye Lv. 10 (P. Atk.)  -->
+		<item id="81094" count="1" /> <!--Legendary Dye Lv. 10 (P. Skill Power)  -->
 	</equipment>
 	<!-- Female Kamael Soldier -->
 	<equipment classId="124">
@@ -313,6 +523,41 @@
 		<item id="80959" count="1" /> <!-- Epic Talisman -->
 		<item id="39657" count="1" /> <!-- Venir's Talisman Lv. 24  -->
 		<item id="81769" count="1" /> <!-- Talisman of Protection Lv. 10 -->
+			<item id="3031" count="100000" /> <!--Spirit Ore -->
+		<item id="1785" count="100000" /> <!--Soulstone -->
+		<item id="57" count="100000000" /> <!--Adena -->
+		<item id="48786" count="1" /> <!--Greater Opal Lv. 5  -->
+		<item id="48790" count="1" /> <!--Greater Emerald (Lv. 5)  -->
+		<item id="81821" count="1" /> <!--Cara's Talisman  -->
+		<item id="29462" count="1" /> <!--Greater Amethyst Lv. 5  -->
+		<item id="81696" count="1" /> <!--Superior Artifact Book  -->
+		<item id="48957" count="1" /> <!--Artifact - P. Atk. Fighting Spirit  -->
+		<item id="80648" count="1" /> <!--Artifact - P. Skill Critical Damage Fighting Spirit  -->
+		<item id="81431" count="1" /> <!--Artifact - P. Skill Power Attack  -->
+		<item id="48963" count="1" /> <!-- Artifact - Max HP Protection  -->
+		<item id="81433" count="1" /> <!-- Artifact - Attribute Resistance Defense  -->
+		<item id="81435" count="1" /> <!-- Artifact - Received P. Critical Damage Defense -->
+		<item id="82193" count="1" /> <!--"Artifact - Damage  -->
+		<item id="82194" count="1" /> <!--Artifact - P./ M. Def  -->
+		<item id="48980" count="1" /> <!--Artifact - Attack Attribute Balance -->
+		<item id="48981" count="1" /> <!--Artifact - Defense Attribute Balance  -->
+		<item id="48969" count="1" /> <!--Artifact - P. Atk. Balance  -->
+		<item id="48974" count="1" /> <!--Artifact - P. Skill Critical Rate Balance  -->
+		<item id="80656" count="1" /> <!--Artifact - P. Def. Balance   -->
+		<item id="80657" count="1" /> <!--Artifact - M. Def. Balance   -->
+		<item id="80658" count="1" /> <!-- Artifact - Normal Attack Critical Damage Balance  -->
+		<item id="82192" count="1" /> <!--Artifact - Basic Attack Power  -->
+		<item id="48973" count="1" /> <!--Artifact - P. Critical Rate Balance  -->
+		<item id="48985" count="1" /> <!--Artifact - Fixed Damage Reduction Balance  -->
+		<item id="48577" count="1" /> <!--Superior Seed Bracelet Lv. 4  -->
+		<item id="80940" count="1" /> <!--Greater Agathion Taurus Charm  -->
+		<item id="80936" count="1" /> <!--Greater Agathion Virgo Charm  -->
+		<item id="80941" count="1" /> <!--Greater Agathion Leo Charm  -->
+		<item id="80947" count="1" /> <!--Greater Agathion Cancer Charm  -->
+		<item id="80943" count="1" /> <!--Greater Agathion Scorpio Charm  -->
+		<item id="81084" count="1" /> <!--Legendary Dye Lv. 10 (P. Skill Critical Damage)  -->
+		<item id="81064" count="1" /> <!--Legendary Dye Lv. 10 (P. Atk.)  -->
+		<item id="81094" count="1" /> <!--Legendary Dye Lv. 10 (P. Skill Power)  -->
 	</equipment>
 	<!-- Ertheia Fighter -->
 	<equipment classId="182">
@@ -351,6 +596,41 @@
 		<item id="80959" count="1" /> <!-- Epic Talisman -->
 		<item id="39657" count="1" /> <!-- Venir's Talisman Lv. 24  -->
 		<item id="81769" count="1" /> <!-- Talisman of Protection Lv. 10 -->
+			<item id="3031" count="100000" /> <!--Spirit Ore -->
+		<item id="1785" count="100000" /> <!--Soulstone -->
+		<item id="57" count="100000000" /> <!--Adena -->
+		<item id="48786" count="1" /> <!--Greater Opal Lv. 5  -->
+		<item id="48790" count="1" /> <!--Greater Emerald (Lv. 5)  -->
+		<item id="81821" count="1" /> <!--Cara's Talisman  -->
+		<item id="29462" count="1" /> <!--Greater Amethyst Lv. 5  -->
+		<item id="81696" count="1" /> <!--Superior Artifact Book  -->
+		<item id="48957" count="1" /> <!--Artifact - P. Atk. Fighting Spirit  -->
+		<item id="80648" count="1" /> <!--Artifact - P. Skill Critical Damage Fighting Spirit  -->
+		<item id="81431" count="1" /> <!--Artifact - P. Skill Power Attack  -->
+		<item id="48963" count="1" /> <!-- Artifact - Max HP Protection  -->
+		<item id="81433" count="1" /> <!-- Artifact - Attribute Resistance Defense  -->
+		<item id="81435" count="1" /> <!-- Artifact - Received P. Critical Damage Defense -->
+		<item id="82193" count="1" /> <!--"Artifact - Damage  -->
+		<item id="82194" count="1" /> <!--Artifact - P./ M. Def  -->
+		<item id="48980" count="1" /> <!--Artifact - Attack Attribute Balance -->
+		<item id="48981" count="1" /> <!--Artifact - Defense Attribute Balance  -->
+		<item id="48969" count="1" /> <!--Artifact - P. Atk. Balance  -->
+		<item id="48974" count="1" /> <!--Artifact - P. Skill Critical Rate Balance  -->
+		<item id="80656" count="1" /> <!--Artifact - P. Def. Balance   -->
+		<item id="80657" count="1" /> <!--Artifact - M. Def. Balance   -->
+		<item id="80658" count="1" /> <!-- Artifact - Normal Attack Critical Damage Balance  -->
+		<item id="82192" count="1" /> <!--Artifact - Basic Attack Power  -->
+		<item id="48973" count="1" /> <!--Artifact - P. Critical Rate Balance  -->
+		<item id="48985" count="1" /> <!--Artifact - Fixed Damage Reduction Balance  -->
+		<item id="48577" count="1" /> <!--Superior Seed Bracelet Lv. 4  -->
+		<item id="80940" count="1" /> <!--Greater Agathion Taurus Charm  -->
+		<item id="80936" count="1" /> <!--Greater Agathion Virgo Charm  -->
+		<item id="80941" count="1" /> <!--Greater Agathion Leo Charm  -->
+		<item id="80947" count="1" /> <!--Greater Agathion Cancer Charm  -->
+		<item id="80943" count="1" /> <!--Greater Agathion Scorpio Charm  -->
+		<item id="81084" count="1" /> <!--Legendary Dye Lv. 10 (P. Skill Critical Damage)  -->
+		<item id="81064" count="1" /> <!--Legendary Dye Lv. 10 (P. Atk.)  -->
+		<item id="81094" count="1" /> <!--Legendary Dye Lv. 10 (P. Skill Power)  -->
 	</equipment>
 	<!-- Ertheia Wizard -->
 	<equipment classId="183">
@@ -374,13 +654,13 @@
 		<item id="23084" count="50" /> <!-- Mysterious Blessed Spiritshot Modest Pack (R-grade) -->
 		<item id="22888" count="50000" /> <!-- Mysterious Soulshot (R-grade) -->
 		<item id="19440" count="10000" /> <!-- Gemstone (R-grade) -->
-		<item id="48908" count="100" /> <!-- Shilen's Soul Crystal - Stage 10 -->
+		<item id="48908" count="1" /> <!-- Shilen's Soul Crystal - Stage 10 -->
 		<item id="80235" count="1" /> <!-- Limited Leviathan Helmet - Heavy Armor -->
 		<item id="80236" count="1" /> <!-- Limited Leviathan Breastplate - Heavy Armor -->
 		<item id="80237" count="1" /> <!-- Limited Leviathan Gaiters - Heavy Armor -->
 		<item id="80238" count="1" /> <!--Limited Leviathan Gauntlets - Heavy Armor -->
 		<item id="80239" count="1" /> <!-- Limited Leviathan Boots - Heavy Armor -->
-		<item id="10639" count="1" /> <!-- Mouse Coin -->
+		<item id="10639" count="100" /> <!-- Mouse Coin -->
 		<item id="80194" count="1" /> <!-- Enchanted Leviathan Shield - Heavy Armor -->
 		<item id="81751" count="1" /> <!-- Ruler's Authority - Chaos -->
 		<item id="28589" count="1" /> <!--Elmoreden Cloak - Legendary-->
@@ -393,12 +673,48 @@
 		<item id="81510" count="1" /> <!--Superior Ruby Lv. 6 -->
 		<item id="81871" count="1" /> <!-- Superior Red Cat's Eye Lv. 10 -->
 		<item id="48794" count="1" /> <!-- Greater Aquamarine - Lv. 5 -->
-		<item id="80837" count="1" /> <!-- Greater Emerald - Lv. 5 -->
 		<item id="80120" count="1" /> <!-- Superior Kaliel's Bracelet -->
 		<item id="80958" count="1" /> <!-- "Sealed Heavenly Talisman -->
 		<item id="47816" count="1" /> <!-- Sayha's Talisman Lv. 10 -->
 		<item id="80959" count="1" /> <!-- Epic Talisman -->
 		<item id="39657" count="1" /> <!-- Venir's Talisman Lv. 24  -->
 		<item id="81769" count="1" /> <!-- Talisman of Protection Lv. 10 -->
+		<item id="3031" count="100000" /> <!--Spirit Ore -->
+		<item id="1785" count="100000" /> <!--Soulstone -->
+		<item id="57" count="100000000" /> <!--Adena -->
+		<item id="48786" count="1" /> <!--Greater Opal Lv. 5  -->
+		<item id="48790" count="1" /> <!--Greater Emerald (Lv. 5)  -->
+		<item id="81821" count="1" /> <!--Cara's Talisman  -->
+		<item id="29462" count="1" /> <!--Greater Amethyst Lv. 5  -->
+		<item id="81696" count="1" /> <!--Superior Artifact Book  -->
+		<item id="48957" count="1" /> <!--Artifact - P. Atk. Fighting Spirit  -->
+		<item id="80648" count="1" /> <!--Artifact - P. Skill Critical Damage Fighting Spirit  -->
+		<item id="81431" count="1" /> <!--Artifact - P. Skill Power Attack  -->
+		<item id="48963" count="1" /> <!-- Artifact - Max HP Protection  -->
+		<item id="81433" count="1" /> <!-- Artifact - Attribute Resistance Defense  -->
+		<item id="81435" count="1" /> <!-- Artifact - Received P. Critical Damage Defense -->
+		<item id="82193" count="1" /> <!--"Artifact - Damage  -->
+		<item id="82194" count="1" /> <!--Artifact - P./ M. Def  -->
+		<item id="48980" count="1" /> <!--Artifact - Attack Attribute Balance -->
+		<item id="48981" count="1" /> <!--Artifact - Defense Attribute Balance  -->
+		<item id="48969" count="1" /> <!--Artifact - P. Atk. Balance  -->
+		<item id="48974" count="1" /> <!--Artifact - P. Skill Critical Rate Balance  -->
+		<item id="80656" count="1" /> <!--Artifact - P. Def. Balance   -->
+		<item id="80657" count="1" /> <!--Artifact - M. Def. Balance   -->
+		<item id="80658" count="1" /> <!-- Artifact - Normal Attack Critical Damage Balance  -->
+		<item id="82192" count="1" /> <!--Artifact - Basic Attack Power  -->
+		<item id="48973" count="1" /> <!--Artifact - P. Critical Rate Balance  -->
+		<item id="48985" count="1" /> <!--Artifact - Fixed Damage Reduction Balance  -->
+		<item id="48577" count="1" /> <!--Superior Seed Bracelet Lv. 4  -->
+		<item id="80940" count="1" /> <!--Greater Agathion Taurus Charm  -->
+		<item id="80936" count="1" /> <!--Greater Agathion Virgo Charm  -->
+		<item id="80941" count="1" /> <!--Greater Agathion Leo Charm  -->
+		<item id="80947" count="1" /> <!--Greater Agathion Cancer Charm  -->
+		<item id="80943" count="1" /> <!--Greater Agathion Scorpio Charm  -->
+		<item id="81084" count="1" /> <!--Legendary Dye Lv. 10 (P. Skill Critical Damage)  -->
+		<item id="81064" count="1" /> <!--Legendary Dye Lv. 10 (P. Atk.)  -->
+		<item id="81094" count="1" /> <!--Legendary Dye Lv. 10 (P. Skill Power)  -->
+
+
 	</equipment>
 </list>

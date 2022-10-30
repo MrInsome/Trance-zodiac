@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/npcs.xsd">
 	<!-- Sigel Phoenix Knight -->
-	<npc id="81001" level="94" type="Monster" name="Siegfield" title="Sigel Phoenix Knight">
+	<npc id="81001" level="130" type="Monster" name="Siegfield" title="Sigel Phoenix Knight">
 		<race>HUMAN</race>
 		<sex>MALE</sex>
-		<stats str="88" int="39" dex="55" wit="39" con="82" men="38">
-			<vitals hp="22228" hpRegen="10.8" mp="3681" mpRegen="3.0" />
-			<attack physical="4425" magical="1284" random="30" critical="94" accuracy="206" attackSpeed="517" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="3613" magical="2307" />
+		<stats str="170" int="39" dex="170" wit="39" con="190" men="190">
+			<vitals hp="22228000" hpRegen="10.8" mp="3681" mpRegen="3.0" />
+			<attack physical="442500" magical="1284" random="30" critical="94" accuracy="206" attackSpeed="1500" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="36130" magical="23070" />
 			<attribute>
 				<defence fire="250" water="250" wind="250" earth="250" holy="250" dark="250" />
 				<attack type="WATER" value="330" />
 			</attribute>
 			<speed>
 				<walk ground="82" />
-				<run ground="132" />
+				<run ground="300" />
 			</speed>
 		</stats>
 		<status fakePlayer="true" talkable="false" randomAnimation="false" randomWalk="false" attackable="true" />
@@ -41,20 +41,20 @@
 		</skillList>
 	</npc>
 	<!-- Tyrr Titan -->
-	<npc id="81002" level="94" type="Monster" name="Tyrrion" title="Tyrr Titan">
+	<npc id="81002" level="130" type="Monster" name="Tyrrion" title="Tyrr Titan">
 		<race>ORC</race>
 		<sex>MALE</sex>
-		<stats str="88" int="37" dex="50" wit="38" con="87" men="41">
-			<vitals hp="19416" hpRegen="10.8" mp="3727" mpRegen="3.0" />
-			<attack physical="11025" magical="1247" random="30" critical="92" accuracy="168" attackSpeed="540" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="3429" magical="2046" />
+		<stats str="190" int="37" dex="190" wit="38" con="190" men="41">
+			<vitals hp="1941600" hpRegen="10.8" mp="3727" mpRegen="3.0" />
+			<attack physical="1102500" magical="1247" random="30" critical="92" accuracy="168" attackSpeed="540" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="34290" magical="20460" />
 			<attribute>
 				<defence fire="250" water="250" wind="250" earth="250" holy="250" dark="250" />
 				<attack type="WATER" value="330" />
 			</attribute>
 			<speed>
-				<walk ground="70" />
-				<run ground="130" />
+				<walk ground="200" />
+				<run ground="300" />
 			</speed>
 		</stats>
 		<status fakePlayer="true" talkable="false" randomAnimation="false" randomWalk="false" attackable="true" />

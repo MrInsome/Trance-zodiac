@@ -338,4 +338,40 @@
 			<skill id="30019" level="5" /> <!-- Sayha's Word -->
 		</skillList>
 	</npc>
+	<!-- Tyrr Gladiator -->
+	<npc id="81010" level="130" type="Monster" name="DanielDefo" title="Глады Сила">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="190" int="37" dex="190" wit="38" con="190" men="41">
+			<vitals hp="1941600" hpRegen="10.8" mp="3727" mpRegen="3.0" />
+			<attack physical="110250" magical="1247" random="30" critical="92" accuracy="168" attackSpeed="1500" type="DUAL" range="40" distance="80" width="120" />
+			<defence physical="70000" magical="70000" />
+			<attribute>
+				<defence fire="450" water="450" wind="450" earth="450" holy="450" dark="450" />
+				<attack type="WATER" value="1500" />
+			</attribute>
+			<speed>
+				<walk ground="200" />
+				<run ground="300" />
+			</speed>
+		</stats>
+		<status fakePlayer="true" talkable="false" randomAnimation="false" randomWalk="false" attackable="true" />
+		<ai type="FIGHTER" clanHelpRange="1000" aggroRange="1000" isAggressive="false"> <!-- FIGHTER, ARCHER, BALANCED, MAGE, HEALER -->
+			<clanList>
+				<clan>FAKE_PLAYER</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="7" />
+			<height normal="27" />
+		</collision>
+		<parameters>
+			<skill name="Skill01_ID" id="10267" level="4" />
+			<skill name="Skill02_ID" id="1760" level="5" />
+		</parameters>
+		<skillList>
+			<skill id="345" level="100" /> <!-- Sonic Rage -->
+			<skill id="30660" level="5" /> <!--Novice Sonic Flash  -->
+		</skillList>
+	</npc>
 </list>

@@ -371,7 +371,11 @@
 		</parameters>
 		<skillList>
 			<skill id="345" level="100" /> <!-- Sonic Rage -->
-			<skill id="30660" level="5" /> <!--Novice Sonic Flash  -->
+			<skill id="10281" level="7" /> <!--Sonic Star  -->
+			<skill id="10279" level="1" /> <!--Giant Barrier  -->
+			<skill id="10273" level="4" /> <!--Lightning Disarm  -->
+			<skill id="261" level="9" /> <!--Triple Sonic Slash  -->
+			<skill id="10318" level="9" /> <!--Sonic Blaster  -->
 		</skillList>
 	</npc>
 		<!-- Feoh Archmage -->
@@ -412,7 +416,13 @@
 			<skill id="11018" level="13" /> <!-- Elemental Crash -->
 			<skill id="11057" level="13" /> <!-- Magical Evasion -->
 			<skill id="11134" level="1" /> <!-- Merheor -->
+		    <skill id="11058" level="8" /> <!-- Black Hole -->
+			<skill id="11032" level="8" /> <!-- Death Howl -->
+			<skill id="11066" level="6" /> <!-- Arcane Comet Strike-->
+			<skill id="11067" level="6" /> <!-- Quadruple Elemental Blast-->
+			<skill id="11094" level="11" /> <!--Magical Charge-->
 		</skillList>
+
 	</npc>
 		<!-- TH -->
 	<npc id="81012" level="130" type="Monster" name="ТХСИЛА" title="Что-то на арабском">
@@ -448,6 +458,51 @@
 		<skillList>
 			<skill id="344" level="1" /> <!-- LethalBlow -->
 			<skill id="358" level="1" /> <!--Bluff  -->
+		</skillList>
+	</npc>
+		<!--Yul Tricketer -->
+	<npc id="81013" level="130" type="Monster" name="Diversanto4ka" title="--->">
+		<race>KAMAEL</race>
+		<sex>FEMALE</sex>
+		<stats str="199" int="50" dex="199" wit="199" con="199" men="199">
+			<vitals hp="1443000" hpRegen="10.8" mp="9103" mpRegen="3000.0" />
+			<attack physical="12570" magical="10320" random="30" critical="350" accuracy="158" attackSpeed="1500" type="BOW" range="1500" distance="500" width="120" />
+			<defence physical="31320" magical="26350" />
+			<attribute>
+				<defence fire="450" water="450" wind="450" earth="450" holy="450" dark="450" />
+				<attack type="DARK" value="1500" />
+			</attribute>
+			<speed>
+				<walk ground="250" />
+				<run ground="300" />
+			</speed>
+		</stats>
+		<status fakePlayer="true" talkable="false" randomAnimation="false" randomWalk="false" attackable="true" />
+		<ai type="ARCHER" clanHelpRange="1000" aggroRange="1000" isAggressive="true"> <!-- FIGHTER, ARCHER, BALANCED, MAGE, HEALER -->
+			<clanList>
+				<clan>FAKE_PLAYER</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="8" />
+			<height normal="23.5" />
+		</collision>
+		<parameters>
+			<skill name="Skill01_ID" id="11011" level="6" />
+			<skill name="Skill02_ID" id="11017" level="6" />
+			<skill name="Skill03_ID" id="11024" level="5" />
+			<skill name="Skill04_ID" id="11047" level="4" />
+		</parameters>
+		<skillList>
+			<skill id="10774" level="4" /> <!-- Quick Evasion -->
+			<skill id="10772" level="13" /> <!-- Heavy Arrow Rain -->
+			<skill id="10775" level="6" /> <!-- Confusion Decoy -->
+			<skill id="10781" level="6" /> <!-- Phoenix Arrow -->
+			<skill id="10760" level="8" /> <!-- Tornado Shot -->
+			<skill id="10769" level="8" /> <!-- Impact Shot-->
+			<skill id="10770" level="13" /> <!--Recoil Shot-->
+			<skill id="10771" level="13" /> <!-- Multiple Arrow-->
+			<skill id="10793" level="1" /> <!--Flash-->
 		</skillList>
 	</npc>
 </list>

@@ -3,16 +3,40 @@
 	<!-- Human Fighter -->
 	<equipment classId="0">
 		<item id="80684" count="1" equipped="true" /> <!-- Falchion - For Apprentice Adventurer -->
-		<item id="80690" count="1" equipped="true" /> <!-- Durable Leather Helmet - Apprentice Adventurer -->
-		<item id="80691" count="1" equipped="true" /> <!-- Bronze Breastplate - Apprentice Adventurer -->
-		<item id="80692" count="1" equipped="true" /> <!-- Bronze Gaiters - Apprentice Adventurer -->
-		<item id="80693" count="1" equipped="true" /> <!-- Bracer - Apprentice Adventurer -->
-		<item id="80694" count="1" equipped="true" /> <!-- Boots - Apprentice Adventurer -->
-		<item id="10650" count="5" /> <!-- Adventurer's Scroll of Escape -->
-		<item id="33801" count="1" /> <!-- Mentoring Guidebook -->
-		<item id="80683" count="1" /> <!-- Sword Breaker - For Apprentice Adventurer -->
-		<item id="80687" count="1" /> <!-- Compound Bow - For Apprentice Adventurer -->
-		<item id="17" count="1500" /> <!-- Wooden Arrow -->
+		<item id="80240" count="1" equipped="true" /> <!-- Limited Leviathan Leather Helmet - Light Armor-->
+		<item id="80241" count="1" equipped="true" /> <!-- Limited Leviathan Leather Armor - Light Armor-->
+		<item id="80242" count="1" equipped="true" /> <!-- Limited Leviathan Leather Leggings - Light Armor -->
+		<item id="80243" count="1" equipped="true" /> <!-- Limited Leviathan Leather Gloves - Light Armor-->
+		<item id="80244" count="1" equipped="true" /> <!-- 	Limited Leviathan Leather Boots - Light Armor-->
+		<item id="23084" count="50" /> <!-- Mysterious Blessed Spiritshot Modest Pack (R-grade) -->
+		<item id="22888" count="50000" /> <!-- Mysterious Soulshot (R-grade) -->
+		<item id="19440" count="10000" /> <!-- Gemstone (R-grade) -->
+		<item id="48908" count="100" /> <!-- Shilen's Soul Crystal - Stage 10 -->
+		<item id="80235" count="1" /> <!-- Limited Leviathan Helmet - Heavy Armor -->
+		<item id="80236" count="1" /> <!-- Limited Leviathan Breastplate - Heavy Armor -->
+		<item id="80237" count="1" /> <!-- Limited Leviathan Gaiters - Heavy Armor -->
+		<item id="80238" count="1" /> <!--Limited Leviathan Gauntlets - Heavy Armor -->
+		<item id="80239" count="1" /> <!-- Limited Leviathan Boots - Heavy Armor -->
+		<item id="10639" count="1" /> <!-- Mouse Coin -->
+		<item id="80194" count="1" /> <!-- Enchanted Leviathan Shield - Heavy Armor -->
+		<item id="81751" count="1" /> <!-- Ruler's Authority - Chaos -->
+		<item id="28589" count="1" /> <!--Elmoreden Cloak - Legendary-->
+		<item id="28324" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
+		<item id="28336" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
+		<item id="28342" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
+		<item id="28348" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
+		<item id="28354" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
+		<item id="81359" count="1" /> <!-- Enhanced La Vie En Rose's Brooch -->
+		<item id="81510" count="1" /> <!--Superior Ruby Lv. 6 -->
+		<item id="81871" count="1" /> <!-- Superior Red Cat's Eye Lv. 10 -->
+		<item id="48794" count="1" /> <!-- Greater Aquamarine - Lv. 5 -->
+		<item id="80837" count="1" /> <!-- Greater Emerald - Lv. 5 -->
+		<item id="80120" count="1" /> <!-- Superior Kaliel's Bracelet -->
+		<item id="80958" count="1" /> <!-- "Sealed Heavenly Talisman -->
+		<item id="47816" count="1" /> <!-- Sayha's Talisman Lv. 10 -->
+		<item id="80959" count="1" /> <!-- Epic Talisman -->
+		<item id="39657" count="1" /> <!-- Venir's Talisman Lv. 24  -->
+		<item id="81769" count="1" /> <!-- Talisman of Protection Lv. 10 -->
 	</equipment>
 	<!-- Human Mystic -->
 	<equipment classId="10">
@@ -28,17 +52,41 @@
 	</equipment>
 	<!-- Elven Fighter -->
 	<equipment classId="18">
-		<item id="80684" count="1" equipped="true" /> <!-- Falchion - For Apprentice Adventurer -->
-		<item id="80690" count="1" equipped="true" /> <!-- Durable Leather Helmet - Apprentice Adventurer -->
-		<item id="80691" count="1" equipped="true" /> <!-- Bronze Breastplate - Apprentice Adventurer -->
-		<item id="80692" count="1" equipped="true" /> <!-- Bronze Gaiters - Apprentice Adventurer -->
-		<item id="80693" count="1" equipped="true" /> <!-- Bracer - Apprentice Adventurer -->
-		<item id="80694" count="1" equipped="true" /> <!-- Boots - Apprentice Adventurer -->
-		<item id="10650" count="5" /> <!-- Adventurer's Scroll of Escape -->
-		<item id="33801" count="1" /> <!-- Mentoring Guidebook -->
-		<item id="80683" count="1" /> <!-- Sword Breaker - For Apprentice Adventurer -->
-		<item id="80687" count="1" /> <!-- Compound Bow - For Apprentice Adventurer -->
-		<item id="17" count="1500" /> <!-- Wooden Arrow -->
+			<item id="80684" count="1" equipped="true" /> <!-- Falchion - For Apprentice Adventurer -->
+		<item id="80240" count="1" equipped="true" /> <!-- Limited Leviathan Leather Helmet - Light Armor-->
+		<item id="80241" count="1" equipped="true" /> <!-- Limited Leviathan Leather Armor - Light Armor-->
+		<item id="80242" count="1" equipped="true" /> <!-- Limited Leviathan Leather Leggings - Light Armor -->
+		<item id="80243" count="1" equipped="true" /> <!-- Limited Leviathan Leather Gloves - Light Armor-->
+		<item id="80244" count="1" equipped="true" /> <!-- 	Limited Leviathan Leather Boots - Light Armor-->
+		<item id="23084" count="50" /> <!-- Mysterious Blessed Spiritshot Modest Pack (R-grade) -->
+		<item id="22888" count="50000" /> <!-- Mysterious Soulshot (R-grade) -->
+		<item id="19440" count="10000" /> <!-- Gemstone (R-grade) -->
+		<item id="48908" count="100" /> <!-- Shilen's Soul Crystal - Stage 10 -->
+		<item id="80235" count="1" /> <!-- Limited Leviathan Helmet - Heavy Armor -->
+		<item id="80236" count="1" /> <!-- Limited Leviathan Breastplate - Heavy Armor -->
+		<item id="80237" count="1" /> <!-- Limited Leviathan Gaiters - Heavy Armor -->
+		<item id="80238" count="1" /> <!--Limited Leviathan Gauntlets - Heavy Armor -->
+		<item id="80239" count="1" /> <!-- Limited Leviathan Boots - Heavy Armor -->
+		<item id="10639" count="1" /> <!-- Mouse Coin -->
+		<item id="80194" count="1" /> <!-- Enchanted Leviathan Shield - Heavy Armor -->
+		<item id="81751" count="1" /> <!-- Ruler's Authority - Chaos -->
+		<item id="28589" count="1" /> <!--Elmoreden Cloak - Legendary-->
+		<item id="28324" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
+		<item id="28336" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
+		<item id="28342" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
+		<item id="28348" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
+		<item id="28354" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
+		<item id="81359" count="1" /> <!-- Enhanced La Vie En Rose's Brooch -->
+		<item id="81510" count="1" /> <!--Superior Ruby Lv. 6 -->
+		<item id="81871" count="1" /> <!-- Superior Red Cat's Eye Lv. 10 -->
+		<item id="48794" count="1" /> <!-- Greater Aquamarine - Lv. 5 -->
+		<item id="80837" count="1" /> <!-- Greater Emerald - Lv. 5 -->
+		<item id="80120" count="1" /> <!-- Superior Kaliel's Bracelet -->
+		<item id="80958" count="1" /> <!-- "Sealed Heavenly Talisman -->
+		<item id="47816" count="1" /> <!-- Sayha's Talisman Lv. 10 -->
+		<item id="80959" count="1" /> <!-- Epic Talisman -->
+		<item id="39657" count="1" /> <!-- Venir's Talisman Lv. 24  -->
+		<item id="81769" count="1" /> <!-- Talisman of Protection Lv. 10 -->
 	</equipment>
 	<!-- Elven Mystic -->
 	<equipment classId="25">
@@ -54,17 +102,41 @@
 	</equipment>
 	<!-- Dark Fighter -->
 	<equipment classId="31">
-		<item id="80684" count="1" equipped="true" /> <!-- Falchion - For Apprentice Adventurer -->
-		<item id="80690" count="1" equipped="true" /> <!-- Durable Leather Helmet - Apprentice Adventurer -->
-		<item id="80691" count="1" equipped="true" /> <!-- Bronze Breastplate - Apprentice Adventurer -->
-		<item id="80692" count="1" equipped="true" /> <!-- Bronze Gaiters - Apprentice Adventurer -->
-		<item id="80693" count="1" equipped="true" /> <!-- Bracer - Apprentice Adventurer -->
-		<item id="80694" count="1" equipped="true" /> <!-- Boots - Apprentice Adventurer -->
-		<item id="10650" count="5" /> <!-- Adventurer's Scroll of Escape -->
-		<item id="33801" count="1" /> <!-- Mentoring Guidebook -->
-		<item id="80683" count="1" /> <!-- Sword Breaker - For Apprentice Adventurer -->
-		<item id="80687" count="1" /> <!-- Compound Bow - For Apprentice Adventurer -->
-		<item id="17" count="1500" /> <!-- Wooden Arrow -->
+			<item id="80684" count="1" equipped="true" /> <!-- Falchion - For Apprentice Adventurer -->
+		<item id="80240" count="1" equipped="true" /> <!-- Limited Leviathan Leather Helmet - Light Armor-->
+		<item id="80241" count="1" equipped="true" /> <!-- Limited Leviathan Leather Armor - Light Armor-->
+		<item id="80242" count="1" equipped="true" /> <!-- Limited Leviathan Leather Leggings - Light Armor -->
+		<item id="80243" count="1" equipped="true" /> <!-- Limited Leviathan Leather Gloves - Light Armor-->
+		<item id="80244" count="1" equipped="true" /> <!-- 	Limited Leviathan Leather Boots - Light Armor-->
+		<item id="23084" count="50" /> <!-- Mysterious Blessed Spiritshot Modest Pack (R-grade) -->
+		<item id="22888" count="50000" /> <!-- Mysterious Soulshot (R-grade) -->
+		<item id="19440" count="10000" /> <!-- Gemstone (R-grade) -->
+		<item id="48908" count="100" /> <!-- Shilen's Soul Crystal - Stage 10 -->
+		<item id="80235" count="1" /> <!-- Limited Leviathan Helmet - Heavy Armor -->
+		<item id="80236" count="1" /> <!-- Limited Leviathan Breastplate - Heavy Armor -->
+		<item id="80237" count="1" /> <!-- Limited Leviathan Gaiters - Heavy Armor -->
+		<item id="80238" count="1" /> <!--Limited Leviathan Gauntlets - Heavy Armor -->
+		<item id="80239" count="1" /> <!-- Limited Leviathan Boots - Heavy Armor -->
+		<item id="10639" count="1" /> <!-- Mouse Coin -->
+		<item id="80194" count="1" /> <!-- Enchanted Leviathan Shield - Heavy Armor -->
+		<item id="81751" count="1" /> <!-- Ruler's Authority - Chaos -->
+		<item id="28589" count="1" /> <!--Elmoreden Cloak - Legendary-->
+		<item id="28324" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
+		<item id="28336" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
+		<item id="28342" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
+		<item id="28348" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
+		<item id="28354" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
+		<item id="81359" count="1" /> <!-- Enhanced La Vie En Rose's Brooch -->
+		<item id="81510" count="1" /> <!--Superior Ruby Lv. 6 -->
+		<item id="81871" count="1" /> <!-- Superior Red Cat's Eye Lv. 10 -->
+		<item id="48794" count="1" /> <!-- Greater Aquamarine - Lv. 5 -->
+		<item id="80837" count="1" /> <!-- Greater Emerald - Lv. 5 -->
+		<item id="80120" count="1" /> <!-- Superior Kaliel's Bracelet -->
+		<item id="80958" count="1" /> <!-- "Sealed Heavenly Talisman -->
+		<item id="47816" count="1" /> <!-- Sayha's Talisman Lv. 10 -->
+		<item id="80959" count="1" /> <!-- Epic Talisman -->
+		<item id="39657" count="1" /> <!-- Venir's Talisman Lv. 24  -->
+		<item id="81769" count="1" /> <!-- Talisman of Protection Lv. 10 -->
 	</equipment>
 	<!-- Dark Mystic -->
 	<equipment classId="38">
@@ -80,15 +152,41 @@
 	</equipment>
 	<!-- Orc Fighter -->
 	<equipment classId="44">
-		<item id="80685" count="1" equipped="true" /> <!-- Zweihander - For Apprentice Adventurer -->
-		<item id="80690" count="1" equipped="true" /> <!-- Durable Leather Helmet - Apprentice Adventurer -->
-		<item id="80691" count="1" equipped="true" /> <!-- Bronze Breastplate - Apprentice Adventurer -->
-		<item id="80692" count="1" equipped="true" /> <!-- Bronze Gaiters - Apprentice Adventurer -->
-		<item id="80693" count="1" equipped="true" /> <!-- Bracer - Apprentice Adventurer -->
-		<item id="80694" count="1" equipped="true" /> <!-- Boots - Apprentice Adventurer -->
-		<item id="10650" count="5" /> <!-- Adventurer's Scroll of Escape -->
-		<item id="33801" count="1" /> <!-- Mentoring Guidebook -->
-		<item id="80688" count="1" /> <!-- Viper Fang - Apprentice Adventurer -->
+			<item id="80684" count="1" equipped="true" /> <!-- Falchion - For Apprentice Adventurer -->
+		<item id="80240" count="1" equipped="true" /> <!-- Limited Leviathan Leather Helmet - Light Armor-->
+		<item id="80241" count="1" equipped="true" /> <!-- Limited Leviathan Leather Armor - Light Armor-->
+		<item id="80242" count="1" equipped="true" /> <!-- Limited Leviathan Leather Leggings - Light Armor -->
+		<item id="80243" count="1" equipped="true" /> <!-- Limited Leviathan Leather Gloves - Light Armor-->
+		<item id="80244" count="1" equipped="true" /> <!-- 	Limited Leviathan Leather Boots - Light Armor-->
+		<item id="23084" count="50" /> <!-- Mysterious Blessed Spiritshot Modest Pack (R-grade) -->
+		<item id="22888" count="50000" /> <!-- Mysterious Soulshot (R-grade) -->
+		<item id="19440" count="10000" /> <!-- Gemstone (R-grade) -->
+		<item id="48908" count="100" /> <!-- Shilen's Soul Crystal - Stage 10 -->
+		<item id="80235" count="1" /> <!-- Limited Leviathan Helmet - Heavy Armor -->
+		<item id="80236" count="1" /> <!-- Limited Leviathan Breastplate - Heavy Armor -->
+		<item id="80237" count="1" /> <!-- Limited Leviathan Gaiters - Heavy Armor -->
+		<item id="80238" count="1" /> <!--Limited Leviathan Gauntlets - Heavy Armor -->
+		<item id="80239" count="1" /> <!-- Limited Leviathan Boots - Heavy Armor -->
+		<item id="10639" count="1" /> <!-- Mouse Coin -->
+		<item id="80194" count="1" /> <!-- Enchanted Leviathan Shield - Heavy Armor -->
+		<item id="81751" count="1" /> <!-- Ruler's Authority - Chaos -->
+		<item id="28589" count="1" /> <!--Elmoreden Cloak - Legendary-->
+		<item id="28324" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
+		<item id="28336" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
+		<item id="28342" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
+		<item id="28348" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
+		<item id="28354" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
+		<item id="81359" count="1" /> <!-- Enhanced La Vie En Rose's Brooch -->
+		<item id="81510" count="1" /> <!--Superior Ruby Lv. 6 -->
+		<item id="81871" count="1" /> <!-- Superior Red Cat's Eye Lv. 10 -->
+		<item id="48794" count="1" /> <!-- Greater Aquamarine - Lv. 5 -->
+		<item id="80837" count="1" /> <!-- Greater Emerald - Lv. 5 -->
+		<item id="80120" count="1" /> <!-- Superior Kaliel's Bracelet -->
+		<item id="80958" count="1" /> <!-- "Sealed Heavenly Talisman -->
+		<item id="47816" count="1" /> <!-- Sayha's Talisman Lv. 10 -->
+		<item id="80959" count="1" /> <!-- Epic Talisman -->
+		<item id="39657" count="1" /> <!-- Venir's Talisman Lv. 24  -->
+		<item id="81769" count="1" /> <!-- Talisman of Protection Lv. 10 -->
 	</equipment>
 	<!-- Orc Mystic -->
 	<equipment classId="49">
@@ -104,50 +202,155 @@
 	</equipment>
 	<!-- Dwarf Fighter -->
 	<equipment classId="53">
-		<item id="80689" count="1" equipped="true" /> <!-- Flanged Mace - Apprentice Adventurer -->
-		<item id="80690" count="1" equipped="true" /> <!-- Durable Leather Helmet - Apprentice Adventurer -->
-		<item id="80691" count="1" equipped="true" /> <!-- Bronze Breastplate - Apprentice Adventurer -->
-		<item id="80692" count="1" equipped="true" /> <!-- Bronze Gaiters - Apprentice Adventurer -->
-		<item id="80693" count="1" equipped="true" /> <!-- Bracer - Apprentice Adventurer -->
-		<item id="80694" count="1" equipped="true" /> <!-- Boots - Apprentice Adventurer -->
-		<item id="10650" count="5" /> <!-- Adventurer's Scroll of Escape -->
-		<item id="33801" count="1" /> <!-- Mentoring Guidebook -->
-		<item id="80683" count="1" /> <!-- Sword Breaker - For Apprentice Adventurer -->
+			<item id="80684" count="1" equipped="true" /> <!-- Falchion - For Apprentice Adventurer -->
+		<item id="80240" count="1" equipped="true" /> <!-- Limited Leviathan Leather Helmet - Light Armor-->
+		<item id="80241" count="1" equipped="true" /> <!-- Limited Leviathan Leather Armor - Light Armor-->
+		<item id="80242" count="1" equipped="true" /> <!-- Limited Leviathan Leather Leggings - Light Armor -->
+		<item id="80243" count="1" equipped="true" /> <!-- Limited Leviathan Leather Gloves - Light Armor-->
+		<item id="80244" count="1" equipped="true" /> <!-- 	Limited Leviathan Leather Boots - Light Armor-->
+		<item id="23084" count="50" /> <!-- Mysterious Blessed Spiritshot Modest Pack (R-grade) -->
+		<item id="22888" count="50000" /> <!-- Mysterious Soulshot (R-grade) -->
+		<item id="19440" count="10000" /> <!-- Gemstone (R-grade) -->
+		<item id="48908" count="100" /> <!-- Shilen's Soul Crystal - Stage 10 -->
+		<item id="80235" count="1" /> <!-- Limited Leviathan Helmet - Heavy Armor -->
+		<item id="80236" count="1" /> <!-- Limited Leviathan Breastplate - Heavy Armor -->
+		<item id="80237" count="1" /> <!-- Limited Leviathan Gaiters - Heavy Armor -->
+		<item id="80238" count="1" /> <!--Limited Leviathan Gauntlets - Heavy Armor -->
+		<item id="80239" count="1" /> <!-- Limited Leviathan Boots - Heavy Armor -->
+		<item id="10639" count="1" /> <!-- Mouse Coin -->
+		<item id="80194" count="1" /> <!-- Enchanted Leviathan Shield - Heavy Armor -->
+		<item id="81751" count="1" /> <!-- Ruler's Authority - Chaos -->
+		<item id="28589" count="1" /> <!--Elmoreden Cloak - Legendary-->
+		<item id="28324" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
+		<item id="28336" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
+		<item id="28342" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
+		<item id="28348" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
+		<item id="28354" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
+		<item id="81359" count="1" /> <!-- Enhanced La Vie En Rose's Brooch -->
+		<item id="81510" count="1" /> <!--Superior Ruby Lv. 6 -->
+		<item id="81871" count="1" /> <!-- Superior Red Cat's Eye Lv. 10 -->
+		<item id="48794" count="1" /> <!-- Greater Aquamarine - Lv. 5 -->
+		<item id="80837" count="1" /> <!-- Greater Emerald - Lv. 5 -->
+		<item id="80120" count="1" /> <!-- Superior Kaliel's Bracelet -->
+		<item id="80958" count="1" /> <!-- "Sealed Heavenly Talisman -->
+		<item id="47816" count="1" /> <!-- Sayha's Talisman Lv. 10 -->
+		<item id="80959" count="1" /> <!-- Epic Talisman -->
+		<item id="39657" count="1" /> <!-- Venir's Talisman Lv. 24  -->
+		<item id="81769" count="1" /> <!-- Talisman of Protection Lv. 10 -->
 	</equipment>
 	<!-- Male Kamael Soldier -->
 	<equipment classId="123">
-		<item id="80684" count="1" equipped="true" /> <!-- Falchion - For Apprentice Adventurer -->
-		<item id="80690" count="1" equipped="true" /> <!-- Durable Leather Helmet - Apprentice Adventurer -->
-		<item id="80691" count="1" equipped="true" /> <!-- Bronze Breastplate - Apprentice Adventurer -->
-		<item id="80692" count="1" equipped="true" /> <!-- Bronze Gaiters - Apprentice Adventurer -->
-		<item id="80693" count="1" equipped="true" /> <!-- Bracer - Apprentice Adventurer -->
-		<item id="80694" count="1" equipped="true" /> <!-- Boots - Apprentice Adventurer -->
-		<item id="10650" count="5" /> <!-- Adventurer's Scroll of Escape -->
-		<item id="33801" count="1" /> <!-- Mentoring Guidebook -->
-		<item id="80683" count="1" /> <!-- Sword Breaker - For Apprentice Adventurer -->
+			<item id="80684" count="1" equipped="true" /> <!-- Falchion - For Apprentice Adventurer -->
+		<item id="80240" count="1" equipped="true" /> <!-- Limited Leviathan Leather Helmet - Light Armor-->
+		<item id="80241" count="1" equipped="true" /> <!-- Limited Leviathan Leather Armor - Light Armor-->
+		<item id="80242" count="1" equipped="true" /> <!-- Limited Leviathan Leather Leggings - Light Armor -->
+		<item id="80243" count="1" equipped="true" /> <!-- Limited Leviathan Leather Gloves - Light Armor-->
+		<item id="80244" count="1" equipped="true" /> <!-- 	Limited Leviathan Leather Boots - Light Armor-->
+		<item id="23084" count="50" /> <!-- Mysterious Blessed Spiritshot Modest Pack (R-grade) -->
+		<item id="22888" count="50000" /> <!-- Mysterious Soulshot (R-grade) -->
+		<item id="19440" count="10000" /> <!-- Gemstone (R-grade) -->
+		<item id="48908" count="100" /> <!-- Shilen's Soul Crystal - Stage 10 -->
+		<item id="80235" count="1" /> <!-- Limited Leviathan Helmet - Heavy Armor -->
+		<item id="80236" count="1" /> <!-- Limited Leviathan Breastplate - Heavy Armor -->
+		<item id="80237" count="1" /> <!-- Limited Leviathan Gaiters - Heavy Armor -->
+		<item id="80238" count="1" /> <!--Limited Leviathan Gauntlets - Heavy Armor -->
+		<item id="80239" count="1" /> <!-- Limited Leviathan Boots - Heavy Armor -->
+		<item id="10639" count="1" /> <!-- Mouse Coin -->
+		<item id="80194" count="1" /> <!-- Enchanted Leviathan Shield - Heavy Armor -->
+		<item id="81751" count="1" /> <!-- Ruler's Authority - Chaos -->
+		<item id="28589" count="1" /> <!--Elmoreden Cloak - Legendary-->
+		<item id="28324" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
+		<item id="28336" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
+		<item id="28342" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
+		<item id="28348" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
+		<item id="28354" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
+		<item id="81359" count="1" /> <!-- Enhanced La Vie En Rose's Brooch -->
+		<item id="81510" count="1" /> <!--Superior Ruby Lv. 6 -->
+		<item id="81871" count="1" /> <!-- Superior Red Cat's Eye Lv. 10 -->
+		<item id="48794" count="1" /> <!-- Greater Aquamarine - Lv. 5 -->
+		<item id="80837" count="1" /> <!-- Greater Emerald - Lv. 5 -->
+		<item id="80120" count="1" /> <!-- Superior Kaliel's Bracelet -->
+		<item id="80958" count="1" /> <!-- "Sealed Heavenly Talisman -->
+		<item id="47816" count="1" /> <!-- Sayha's Talisman Lv. 10 -->
+		<item id="80959" count="1" /> <!-- Epic Talisman -->
+		<item id="39657" count="1" /> <!-- Venir's Talisman Lv. 24  -->
+		<item id="81769" count="1" /> <!-- Talisman of Protection Lv. 10 -->
 	</equipment>
 	<!-- Female Kamael Soldier -->
 	<equipment classId="124">
-		<item id="80684" count="1" equipped="true" /> <!-- Falchion - For Apprentice Adventurer -->
-		<item id="80690" count="1" equipped="true" /> <!-- Durable Leather Helmet - Apprentice Adventurer -->
-		<item id="80691" count="1" equipped="true" /> <!-- Bronze Breastplate - Apprentice Adventurer -->
-		<item id="80692" count="1" equipped="true" /> <!-- Bronze Gaiters - Apprentice Adventurer -->
-		<item id="80693" count="1" equipped="true" /> <!-- Bracer - Apprentice Adventurer -->
-		<item id="80694" count="1" equipped="true" /> <!-- Boots - Apprentice Adventurer -->
-		<item id="10650" count="5" /> <!-- Adventurer's Scroll of Escape -->
-		<item id="33801" count="1" /> <!-- Mentoring Guidebook -->
-		<item id="80686" count="1" /> <!-- Mage Staff - For Apprentice Adventurer -->
+			<item id="80684" count="1" equipped="true" /> <!-- Falchion - For Apprentice Adventurer -->
+		<item id="80240" count="1" equipped="true" /> <!-- Limited Leviathan Leather Helmet - Light Armor-->
+		<item id="80241" count="1" equipped="true" /> <!-- Limited Leviathan Leather Armor - Light Armor-->
+		<item id="80242" count="1" equipped="true" /> <!-- Limited Leviathan Leather Leggings - Light Armor -->
+		<item id="80243" count="1" equipped="true" /> <!-- Limited Leviathan Leather Gloves - Light Armor-->
+		<item id="80244" count="1" equipped="true" /> <!-- 	Limited Leviathan Leather Boots - Light Armor-->
+		<item id="23084" count="50" /> <!-- Mysterious Blessed Spiritshot Modest Pack (R-grade) -->
+		<item id="22888" count="50000" /> <!-- Mysterious Soulshot (R-grade) -->
+		<item id="19440" count="10000" /> <!-- Gemstone (R-grade) -->
+		<item id="48908" count="100" /> <!-- Shilen's Soul Crystal - Stage 10 -->
+		<item id="80235" count="1" /> <!-- Limited Leviathan Helmet - Heavy Armor -->
+		<item id="80236" count="1" /> <!-- Limited Leviathan Breastplate - Heavy Armor -->
+		<item id="80237" count="1" /> <!-- Limited Leviathan Gaiters - Heavy Armor -->
+		<item id="80238" count="1" /> <!--Limited Leviathan Gauntlets - Heavy Armor -->
+		<item id="80239" count="1" /> <!-- Limited Leviathan Boots - Heavy Armor -->
+		<item id="10639" count="1" /> <!-- Mouse Coin -->
+		<item id="80194" count="1" /> <!-- Enchanted Leviathan Shield - Heavy Armor -->
+		<item id="81751" count="1" /> <!-- Ruler's Authority - Chaos -->
+		<item id="28589" count="1" /> <!--Elmoreden Cloak - Legendary-->
+		<item id="28324" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
+		<item id="28336" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
+		<item id="28342" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
+		<item id="28348" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
+		<item id="28354" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
+		<item id="81359" count="1" /> <!-- Enhanced La Vie En Rose's Brooch -->
+		<item id="81510" count="1" /> <!--Superior Ruby Lv. 6 -->
+		<item id="81871" count="1" /> <!-- Superior Red Cat's Eye Lv. 10 -->
+		<item id="48794" count="1" /> <!-- Greater Aquamarine - Lv. 5 -->
+		<item id="80837" count="1" /> <!-- Greater Emerald - Lv. 5 -->
+		<item id="80120" count="1" /> <!-- Superior Kaliel's Bracelet -->
+		<item id="80958" count="1" /> <!-- "Sealed Heavenly Talisman -->
+		<item id="47816" count="1" /> <!-- Sayha's Talisman Lv. 10 -->
+		<item id="80959" count="1" /> <!-- Epic Talisman -->
+		<item id="39657" count="1" /> <!-- Venir's Talisman Lv. 24  -->
+		<item id="81769" count="1" /> <!-- Talisman of Protection Lv. 10 -->
 	</equipment>
 	<!-- Ertheia Fighter -->
 	<equipment classId="182">
-		<item id="80688" count="1" equipped="true" /> <!-- Viper Fang - Apprentice Adventurer -->
-		<item id="80690" count="1" equipped="true" /> <!-- Durable Leather Helmet - Apprentice Adventurer -->
-		<item id="80691" count="1" equipped="true" /> <!-- Bronze Breastplate - Apprentice Adventurer -->
-		<item id="80692" count="1" equipped="true" /> <!-- Bronze Gaiters - Apprentice Adventurer -->
-		<item id="80693" count="1" equipped="true" /> <!-- Bracer - Apprentice Adventurer -->
-		<item id="80694" count="1" equipped="true" /> <!-- Boots - Apprentice Adventurer -->
-		<item id="10650" count="5" /> <!-- Adventurer's Scroll of Escape -->
-		<item id="33801" count="1" /> <!-- Mentoring Guidebook -->
+			<item id="80684" count="1" equipped="true" /> <!-- Falchion - For Apprentice Adventurer -->
+		<item id="80240" count="1" equipped="true" /> <!-- Limited Leviathan Leather Helmet - Light Armor-->
+		<item id="80241" count="1" equipped="true" /> <!-- Limited Leviathan Leather Armor - Light Armor-->
+		<item id="80242" count="1" equipped="true" /> <!-- Limited Leviathan Leather Leggings - Light Armor -->
+		<item id="80243" count="1" equipped="true" /> <!-- Limited Leviathan Leather Gloves - Light Armor-->
+		<item id="80244" count="1" equipped="true" /> <!-- 	Limited Leviathan Leather Boots - Light Armor-->
+		<item id="23084" count="50" /> <!-- Mysterious Blessed Spiritshot Modest Pack (R-grade) -->
+		<item id="22888" count="50000" /> <!-- Mysterious Soulshot (R-grade) -->
+		<item id="19440" count="10000" /> <!-- Gemstone (R-grade) -->
+		<item id="48908" count="100" /> <!-- Shilen's Soul Crystal - Stage 10 -->
+		<item id="80235" count="1" /> <!-- Limited Leviathan Helmet - Heavy Armor -->
+		<item id="80236" count="1" /> <!-- Limited Leviathan Breastplate - Heavy Armor -->
+		<item id="80237" count="1" /> <!-- Limited Leviathan Gaiters - Heavy Armor -->
+		<item id="80238" count="1" /> <!--Limited Leviathan Gauntlets - Heavy Armor -->
+		<item id="80239" count="1" /> <!-- Limited Leviathan Boots - Heavy Armor -->
+		<item id="10639" count="1" /> <!-- Mouse Coin -->
+		<item id="80194" count="1" /> <!-- Enchanted Leviathan Shield - Heavy Armor -->
+		<item id="81751" count="1" /> <!-- Ruler's Authority - Chaos -->
+		<item id="28589" count="1" /> <!--Elmoreden Cloak - Legendary-->
+		<item id="28324" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
+		<item id="28336" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
+		<item id="28342" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
+		<item id="28348" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
+		<item id="28354" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
+		<item id="81359" count="1" /> <!-- Enhanced La Vie En Rose's Brooch -->
+		<item id="81510" count="1" /> <!--Superior Ruby Lv. 6 -->
+		<item id="81871" count="1" /> <!-- Superior Red Cat's Eye Lv. 10 -->
+		<item id="48794" count="1" /> <!-- Greater Aquamarine - Lv. 5 -->
+		<item id="80837" count="1" /> <!-- Greater Emerald - Lv. 5 -->
+		<item id="80120" count="1" /> <!-- Superior Kaliel's Bracelet -->
+		<item id="80958" count="1" /> <!-- "Sealed Heavenly Talisman -->
+		<item id="47816" count="1" /> <!-- Sayha's Talisman Lv. 10 -->
+		<item id="80959" count="1" /> <!-- Epic Talisman -->
+		<item id="39657" count="1" /> <!-- Venir's Talisman Lv. 24  -->
+		<item id="81769" count="1" /> <!-- Talisman of Protection Lv. 10 -->
 	</equipment>
 	<!-- Ertheia Wizard -->
 	<equipment classId="183">
@@ -162,16 +365,40 @@
 	</equipment>
 	<!-- Death Soldier -->
 	<equipment classId="212">
-		<item id="80684" count="1" equipped="true" /> <!-- Falchion - For Apprentice Adventurer -->
-		<item id="80690" count="1" equipped="true" /> <!-- Durable Leather Helmet - Apprentice Adventurer -->
-		<item id="80691" count="1" equipped="true" /> <!-- Bronze Breastplate - Apprentice Adventurer -->
-		<item id="80692" count="1" equipped="true" /> <!-- Bronze Gaiters - Apprentice Adventurer -->
-		<item id="80693" count="1" equipped="true" /> <!-- Bracer - Apprentice Adventurer -->
-		<item id="80694" count="1" equipped="true" /> <!-- Boots - Apprentice Adventurer -->
-		<item id="10650" count="5" /> <!-- Adventurer's Scroll of Escape -->
-		<item id="33801" count="1" /> <!-- Mentoring Guidebook -->
-		<item id="80683" count="1" /> <!-- Sword Breaker - For Apprentice Adventurer -->
-		<item id="80687" count="1" /> <!-- Compound Bow - For Apprentice Adventurer -->
-		<item id="17" count="1500" /> <!-- Wooden Arrow -->
+			<item id="80684" count="1" equipped="true" /> <!-- Falchion - For Apprentice Adventurer -->
+		<item id="80240" count="1" equipped="true" /> <!-- Limited Leviathan Leather Helmet - Light Armor-->
+		<item id="80241" count="1" equipped="true" /> <!-- Limited Leviathan Leather Armor - Light Armor-->
+		<item id="80242" count="1" equipped="true" /> <!-- Limited Leviathan Leather Leggings - Light Armor -->
+		<item id="80243" count="1" equipped="true" /> <!-- Limited Leviathan Leather Gloves - Light Armor-->
+		<item id="80244" count="1" equipped="true" /> <!-- 	Limited Leviathan Leather Boots - Light Armor-->
+		<item id="23084" count="50" /> <!-- Mysterious Blessed Spiritshot Modest Pack (R-grade) -->
+		<item id="22888" count="50000" /> <!-- Mysterious Soulshot (R-grade) -->
+		<item id="19440" count="10000" /> <!-- Gemstone (R-grade) -->
+		<item id="48908" count="100" /> <!-- Shilen's Soul Crystal - Stage 10 -->
+		<item id="80235" count="1" /> <!-- Limited Leviathan Helmet - Heavy Armor -->
+		<item id="80236" count="1" /> <!-- Limited Leviathan Breastplate - Heavy Armor -->
+		<item id="80237" count="1" /> <!-- Limited Leviathan Gaiters - Heavy Armor -->
+		<item id="80238" count="1" /> <!--Limited Leviathan Gauntlets - Heavy Armor -->
+		<item id="80239" count="1" /> <!-- Limited Leviathan Boots - Heavy Armor -->
+		<item id="10639" count="1" /> <!-- Mouse Coin -->
+		<item id="80194" count="1" /> <!-- Enchanted Leviathan Shield - Heavy Armor -->
+		<item id="81751" count="1" /> <!-- Ruler's Authority - Chaos -->
+		<item id="28589" count="1" /> <!--Elmoreden Cloak - Legendary-->
+		<item id="28324" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
+		<item id="28336" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
+		<item id="28342" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
+		<item id="28348" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
+		<item id="28354" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
+		<item id="81359" count="1" /> <!-- Enhanced La Vie En Rose's Brooch -->
+		<item id="81510" count="1" /> <!--Superior Ruby Lv. 6 -->
+		<item id="81871" count="1" /> <!-- Superior Red Cat's Eye Lv. 10 -->
+		<item id="48794" count="1" /> <!-- Greater Aquamarine - Lv. 5 -->
+		<item id="80837" count="1" /> <!-- Greater Emerald - Lv. 5 -->
+		<item id="80120" count="1" /> <!-- Superior Kaliel's Bracelet -->
+		<item id="80958" count="1" /> <!-- "Sealed Heavenly Talisman -->
+		<item id="47816" count="1" /> <!-- Sayha's Talisman Lv. 10 -->
+		<item id="80959" count="1" /> <!-- Epic Talisman -->
+		<item id="39657" count="1" /> <!-- Venir's Talisman Lv. 24  -->
+		<item id="81769" count="1" /> <!-- Talisman of Protection Lv. 10 -->
 	</equipment>
 </list>

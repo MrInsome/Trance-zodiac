@@ -35,5 +35,7 @@ int recommends, int nobleLevel, boolean hero, int clanId, int pledgeStatus -->
 	<!-- Sayha's Seer -->
 	<fakePlayer npcId="81009" classId="189" hair="0" hairColor="0" face="0" equipRHand="37878" equipHead="37220" equipGloves="37221" equipChest="37218" equipLegs="37219" equipFeet="37222" equipCloak="40201" />
 		<!-- Tyrr Gladiator -->
-	<fakePlayer npcId="81010" classId="152" hair="0" hairColor="0" face="0" equipRHand="37879" equipHead="23183" equipGloves="23181" equipChest="23179" equipLegs="23180" equipFeet="23181" equipCloak="37093" />
+	<fakePlayer npcId="81010" classId="152" hair="0" hairColor="0" face="0" equipRHand="37879" equipHead="23183" equipGloves="23181" equipChest="23179" equipLegs="23180" equipFeet="23182" equipCloak="37093" />
+	<!-- Feoh Archmage -->
+	<fakePlayer npcId="81011" classId="166" hair="0" hairColor="0" face="0" equipRHand="36505" equipHead="37220" equipGloves="35046" equipChest="35044" equipLegs="35045" equipFeet="35047" equipCloak="21719" />
 </list>

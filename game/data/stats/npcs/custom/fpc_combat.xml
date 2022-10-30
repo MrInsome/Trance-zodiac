@@ -343,7 +343,7 @@
 		<race>HUMAN</race>
 		<sex>MALE</sex>
 		<stats str="190" int="37" dex="190" wit="38" con="190" men="41">
-			<vitals hp="1941600" hpRegen="10.8" mp="3727" mpRegen="3.0" />
+			<vitals hp="1941600" hpRegen="10.8" mp="3727" mpRegen="3000.0" />
 			<attack physical="110250" magical="1247" random="30" critical="92" accuracy="168" attackSpeed="1500" type="DUAL" range="40" distance="80" width="120" />
 			<defence physical="70000" magical="70000" />
 			<attribute>
@@ -383,7 +383,7 @@
 		<race>HUMAN</race>
 		<sex>FEMALE</sex>
 		<stats str="38" int="199" dex="27" wit="199" con="199" men="199">
-			<vitals hp="1443000" hpRegen="10.8" mp="9103" mpRegen="3.0" />
+			<vitals hp="1443000" hpRegen="10.8" mp="9103" mpRegen="3000.0" />
 			<attack physical="1257" magical="103200" random="30" critical="61" accuracy="158" attackSpeed="1500" type="BLUNT" range="400" distance="500" width="120" />
 			<defence physical="31320" magical="26350" />
 			<attribute>

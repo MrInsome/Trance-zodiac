@@ -374,4 +374,44 @@
 			<skill id="30660" level="5" /> <!--Novice Sonic Flash  -->
 		</skillList>
 	</npc>
+		<!-- Feoh Archmage -->
+	<npc id="81011" level="130" type="Monster" name="Ragnaros" title="Умри Насекомое">
+		<race>HUMAN</race>
+		<sex>FEMALE</sex>
+		<stats str="38" int="199" dex="27" wit="199" con="199" men="199">
+			<vitals hp="1443000" hpRegen="10.8" mp="9103" mpRegen="3.0" />
+			<attack physical="1257" magical="103200" random="30" critical="61" accuracy="158" attackSpeed="1500" type="BLUNT" range="40" distance="500" width="120" />
+			<defence physical="31320" magical="26350" />
+			<attribute>
+				<defence fire="450" water="450" wind="450" earth="450" holy="450" dark="450" />
+				<attack type="FIRE" value="1500" />
+			</attribute>
+			<speed>
+				<walk ground="250" />
+				<run ground="300" />
+			</speed>
+		</stats>
+		<status fakePlayer="true" talkable="false" randomAnimation="false" randomWalk="false" attackable="true" />
+		<ai type="MAGE" clanHelpRange="1000" aggroRange="1000" isAggressive="true"> <!-- FIGHTER, ARCHER, BALANCED, MAGE, HEALER -->
+			<clanList>
+				<clan>FAKE_PLAYER</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="8" />
+			<height normal="23.5" />
+		</collision>
+		<parameters>
+			<skill name="Skill01_ID" id="11011" level="6" />
+			<skill name="Skill02_ID" id="11017" level="6" />
+			<skill name="Skill03_ID" id="11024" level="5" />
+			<skill name="Skill04_ID" id="11047" level="4" />
+		</parameters>
+		<skillList>
+			<skill id="11024" level="13" /> <!-- Volcanic Destruction -->
+			<skill id="11018" level="13" /> <!-- Elemental Crash -->
+			<skill id="11057" level="13" /> <!-- Magical Evasion -->
+			<skill id="11134" level="1" /> <!-- Merheor -->
+		</skillList>
+	</npc>
 </list>

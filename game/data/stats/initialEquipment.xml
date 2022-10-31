@@ -69,21 +69,66 @@
 		<item id="80941" count="1" /> <!--Greater Agathion Leo Charm  -->
 		<item id="80947" count="1" /> <!--Greater Agathion Cancer Charm  -->
 		<item id="80943" count="1" /> <!--Greater Agathion Scorpio Charm  -->
-		<item id="81084" count="1" /> <!--Legendary Dye Lv. 10 (P. Skill Critical Damage)  -->
-		<item id="81064" count="1" /> <!--Legendary Dye Lv. 10 (P. Atk.)  -->
-		<item id="81094" count="1" /> <!--Legendary Dye Lv. 10 (P. Skill Power)  -->
+		<item id="81084" count="30" /> <!--Legendary Dye Lv. 10 (P. Skill Critical Damage)  -->
+		<item id="81064" count="30" /> <!--Legendary Dye Lv. 10 (P. Atk.)  -->
+		<item id="81094" count="30" /> <!--Legendary Dye Lv. 10 (P. Skill Power)  -->
 	</equipment>
 	<!-- Human Mystic -->
 	<equipment classId="10">
 		<item id="80686" count="1" equipped="true" /> <!-- Mage Staff - For Apprentice Adventurer -->
-		<item id="80695" count="1" equipped="true" /> <!-- Leather Helmet - Apprentice Adventurer -->
-		<item id="80696" count="1" equipped="true" /> <!-- Tunic of Devotion - Apprentice Adventurer -->
-		<item id="80697" count="1" equipped="true" /> <!-- Stockings of Devotion - Apprentice Adventurer -->
-		<item id="80693" count="1" equipped="true" /> <!-- Bracer - Apprentice Adventurer -->
-		<item id="80694" count="1" equipped="true" /> <!-- Boots - Apprentice Adventurer -->
-		<item id="10650" count="5" /> <!-- Adventurer's Scroll of Escape -->
-		<item id="33801" count="1" /> <!-- Mentoring Guidebook -->
-		<item id="80689" count="1" /> <!-- Flanged Mace - For Apprentice Adventurer -->
+		<item id="80245" count="1" equipped="true" /> <!-- Limited Leviathan Circlet - Robe -->
+		<item id="80246" count="1" equipped="true" /> <!-- Limited Leviathan Tunic - Robe -->
+		<item id="80247" count="1" equipped="true" /> <!-- Limited Leviathan Stockings -->
+		<item id="80248" count="1" equipped="true" /> <!-- Limited Leviathan Gloves -->
+		<item id="80249" count="1" equipped="true" /> <!-- Limited Leviathan Shoes -->
+		<item id="28324" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
+		<item id="28336" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
+		<item id="28342" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
+		<item id="28348" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
+		<item id="28354" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
+		<item id="80319" count="1" equipped="true" /> <!-- Enchanted Leviathan Sigil - Robe -->
+		<item id="48908" count="1" /> <!-- Shilen's Soul Crystal - Stage 10 -->
+		<item id="81751" count="1" /> <!-- Ruler's Authority - Chaos -->
+		<item id="28589" count="1" /> <!--Elmoreden Cloak - Legendary-->
+		<item id="10639" count="100" /> <!-- Mouse Coin -->
+		<item id="3031" count="100000" /> <!--Spirit Ore -->
+		<item id="1785" count="100000" /> <!--Soulstone -->
+		<item id="57" count="100000000" /> <!--Adena -->
+		<item id="23084" count="50" /> <!-- Mysterious Blessed Spiritshot Modest Pack (R-grade) -->
+		<item id="22888" count="50000" /> <!-- Mysterious Soulshot (R-grade) -->
+		<item id="19440" count="10000" /> <!-- Gemstone (R-grade) -->
+		<item id="80120" count="1" /> <!-- Superior Kaliel's Bracelet -->
+		<item id="81359" count="1" /> <!-- Enhanced La Vie En Rose's Brooch -->
+		<item id="81696" count="1" /> <!--Superior Artifact Book  -->
+		<item id="80958" count="1" /> <!-- "Sealed Heavenly Talisman -->
+		<item id="47816" count="1" /> <!-- Sayha's Talisman Lv. 10 -->
+		<item id="80959" count="1" /> <!-- Epic Talisman -->
+		<item id="39657" count="1" /> <!-- Venir's Talisman Lv. 24  -->
+		<item id="81769" count="1" /> <!-- Talisman of Protection Lv. 10 -->
+		<item id="81821" count="1" /> <!--Cara's Talisman  -->
+		<item id="26341" count="1" /> <!-- Talisman - Abundance Lv. 4 (High-grade) -->
+		<item id="48577" count="1" /> <!--Superior Seed Bracelet Lv. 4  -->
+		<item id="80944" count="1" /> <!-- Greater Aquarius Agathion Charm -->
+		<item id="80940" count="1" /> <!-- Greater Taurus Agathion Charm -->
+		<item id="80941" count="1" /> <!-- Greater Leo Agathion Charm -->
+		<item id="28948" count="1" /> <!-- Libra Agathion Charm From the Star - Stage 12 -->
+		<item id="48778" count="1" /> <!-- Greater Sapphire - Lv. 5 -->
+		<item id="48822" count="1" /> <!-- Greater Blue Cat's Eye - Lv. 5 -->
+		<item id="48786" count="1" /> <!-- Greater Opal - Lv. 5 -->
+		<item id="48798" count="1" /> <!-- Greater Diamond - Lv. 5 -->
+		<item id="48794" count="1" /> <!-- Greater Aquamarine - Lv. 5 -->
+		<item id="48790" count="1" /> <!--Greater Emerald (Lv. 5)  -->
+		<item id="29462" count="1" /> <!--Greater Amethyst Lv. 5  -->
+		<item id="48802" count="1" /> <!-- Greater Pearl - Lv. 5 -->
+		<item id="48770" count="1" /> <!-- Greater Topaz - Lv. 5 -->
+		<item id="48782" count="1" /> <!-- Greater Obsidian - Lv. 5 -->
+		<item id="48810" count="1" /> <!-- Greater Garnet - Lv. 5 -->
+		<item id="81114" count="30" /> <!-- маг крит атк -->
+		<item id="81124" count="30" /> <!-- мощность м умений -->
+		<item id="81104" count="30" /> <!-- маг атака -->
+
+
+
 	</equipment>
 	<!-- Elven Fighter -->
 	<equipment classId="18">
@@ -154,21 +199,63 @@
 		<item id="80941" count="1" /> <!--Greater Agathion Leo Charm  -->
 		<item id="80947" count="1" /> <!--Greater Agathion Cancer Charm  -->
 		<item id="80943" count="1" /> <!--Greater Agathion Scorpio Charm  -->
-		<item id="81084" count="1" /> <!--Legendary Dye Lv. 10 (P. Skill Critical Damage)  -->
-		<item id="81064" count="1" /> <!--Legendary Dye Lv. 10 (P. Atk.)  -->
-		<item id="81094" count="1" /> <!--Legendary Dye Lv. 10 (P. Skill Power)  -->
+		<item id="81084" count="30" /> <!--Legendary Dye Lv. 10 (P. Skill Critical Damage)  -->
+		<item id="81064" count="30" /> <!--Legendary Dye Lv. 10 (P. Atk.)  -->
+		<item id="81094" count="30" /> <!--Legendary Dye Lv. 10 (P. Skill Power)  -->
 	</equipment>
 	<!-- Elven Mystic -->
 	<equipment classId="25">
 		<item id="80686" count="1" equipped="true" /> <!-- Mage Staff - For Apprentice Adventurer -->
-		<item id="80695" count="1" equipped="true" /> <!-- Leather Helmet - Apprentice Adventurer -->
-		<item id="80696" count="1" equipped="true" /> <!-- Tunic of Devotion - Apprentice Adventurer -->
-		<item id="80697" count="1" equipped="true" /> <!-- Stockings of Devotion - Apprentice Adventurer -->
-		<item id="80693" count="1" equipped="true" /> <!-- Bracer - Apprentice Adventurer -->
-		<item id="80694" count="1" equipped="true" /> <!-- Boots - Apprentice Adventurer -->
-		<item id="10650" count="5" /> <!-- Adventurer's Scroll of Escape -->
-		<item id="33801" count="1" /> <!-- Mentoring Guidebook -->
-		<item id="80689" count="1" /> <!-- Flanged Mace - For Apprentice Adventurer -->
+		<item id="80245" count="1" equipped="true" /> <!-- Limited Leviathan Circlet - Robe -->
+		<item id="80246" count="1" equipped="true" /> <!-- Limited Leviathan Tunic - Robe -->
+		<item id="80247" count="1" equipped="true" /> <!-- Limited Leviathan Stockings -->
+		<item id="80248" count="1" equipped="true" /> <!-- Limited Leviathan Gloves -->
+		<item id="80249" count="1" equipped="true" /> <!-- Limited Leviathan Shoes -->
+		<item id="28324" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
+		<item id="28336" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
+		<item id="28342" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
+		<item id="28348" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
+		<item id="28354" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
+		<item id="80319" count="1" equipped="true" /> <!-- Enchanted Leviathan Sigil - Robe -->
+		<item id="48908" count="1" /> <!-- Shilen's Soul Crystal - Stage 10 -->
+		<item id="81751" count="1" /> <!-- Ruler's Authority - Chaos -->
+		<item id="28589" count="1" /> <!--Elmoreden Cloak - Legendary-->
+		<item id="10639" count="100" /> <!-- Mouse Coin -->
+		<item id="3031" count="100000" /> <!--Spirit Ore -->
+		<item id="1785" count="100000" /> <!--Soulstone -->
+		<item id="57" count="100000000" /> <!--Adena -->
+		<item id="23084" count="50" /> <!-- Mysterious Blessed Spiritshot Modest Pack (R-grade) -->
+		<item id="22888" count="50000" /> <!-- Mysterious Soulshot (R-grade) -->
+		<item id="19440" count="10000" /> <!-- Gemstone (R-grade) -->
+		<item id="80120" count="1" /> <!-- Superior Kaliel's Bracelet -->
+		<item id="81359" count="1" /> <!-- Enhanced La Vie En Rose's Brooch -->
+		<item id="81696" count="1" /> <!--Superior Artifact Book  -->
+		<item id="80958" count="1" /> <!-- "Sealed Heavenly Talisman -->
+		<item id="47816" count="1" /> <!-- Sayha's Talisman Lv. 10 -->
+		<item id="80959" count="1" /> <!-- Epic Talisman -->
+		<item id="39657" count="1" /> <!-- Venir's Talisman Lv. 24  -->
+		<item id="81769" count="1" /> <!-- Talisman of Protection Lv. 10 -->
+		<item id="81821" count="1" /> <!--Cara's Talisman  -->
+		<item id="26341" count="1" /> <!-- Talisman - Abundance Lv. 4 (High-grade) -->
+		<item id="48577" count="1" /> <!--Superior Seed Bracelet Lv. 4  -->
+		<item id="80944" count="1" /> <!-- Greater Aquarius Agathion Charm -->
+		<item id="80940" count="1" /> <!-- Greater Taurus Agathion Charm -->
+		<item id="80941" count="1" /> <!-- Greater Leo Agathion Charm -->
+		<item id="28948" count="1" /> <!-- Libra Agathion Charm From the Star - Stage 12 -->
+		<item id="48778" count="1" /> <!-- Greater Sapphire - Lv. 5 -->
+		<item id="48822" count="1" /> <!-- Greater Blue Cat's Eye - Lv. 5 -->
+		<item id="48786" count="1" /> <!-- Greater Opal - Lv. 5 -->
+		<item id="48798" count="1" /> <!-- Greater Diamond - Lv. 5 -->
+		<item id="48794" count="1" /> <!-- Greater Aquamarine - Lv. 5 -->
+		<item id="48790" count="1" /> <!--Greater Emerald (Lv. 5)  -->
+		<item id="29462" count="1" /> <!--Greater Amethyst Lv. 5  -->
+		<item id="48802" count="1" /> <!-- Greater Pearl - Lv. 5 -->
+		<item id="48770" count="1" /> <!-- Greater Topaz - Lv. 5 -->
+		<item id="48782" count="1" /> <!-- Greater Obsidian - Lv. 5 -->
+		<item id="48810" count="1" /> <!-- Greater Garnet - Lv. 5 -->
+		<item id="81114" count="30" /> <!-- маг крит атк -->
+		<item id="81124" count="30" /> <!-- мощность м умений -->
+		<item id="81104" count="30" /> <!-- маг атака -->
 	</equipment>
 	<!-- Dark Fighter -->
 	<equipment classId="31">
@@ -239,21 +326,63 @@
 		<item id="80941" count="1" /> <!--Greater Agathion Leo Charm  -->
 		<item id="80947" count="1" /> <!--Greater Agathion Cancer Charm  -->
 		<item id="80943" count="1" /> <!--Greater Agathion Scorpio Charm  -->
-		<item id="81084" count="1" /> <!--Legendary Dye Lv. 10 (P. Skill Critical Damage)  -->
-		<item id="81064" count="1" /> <!--Legendary Dye Lv. 10 (P. Atk.)  -->
-		<item id="81094" count="1" /> <!--Legendary Dye Lv. 10 (P. Skill Power)  -->
+		<item id="81084" count="30" /> <!--Legendary Dye Lv. 10 (P. Skill Critical Damage)  -->
+		<item id="81064" count="30" /> <!--Legendary Dye Lv. 10 (P. Atk.)  -->
+		<item id="81094" count="30" /> <!--Legendary Dye Lv. 10 (P. Skill Power)  -->
 	</equipment>
 	<!-- Dark Mystic -->
 	<equipment classId="38">
 		<item id="80686" count="1" equipped="true" /> <!-- Mage Staff - For Apprentice Adventurer -->
-		<item id="80695" count="1" equipped="true" /> <!-- Leather Helmet - Apprentice Adventurer -->
-		<item id="80696" count="1" equipped="true" /> <!-- Tunic of Devotion - Apprentice Adventurer -->
-		<item id="80697" count="1" equipped="true" /> <!-- Stockings of Devotion - Apprentice Adventurer -->
-		<item id="80693" count="1" equipped="true" /> <!-- Bracer - Apprentice Adventurer -->
-		<item id="80694" count="1" equipped="true" /> <!-- Boots - Apprentice Adventurer -->
-		<item id="10650" count="5" /> <!-- Adventurer's Scroll of Escape -->
-		<item id="33801" count="1" /> <!-- Mentoring Guidebook -->
-		<item id="80689" count="1" /> <!-- Flanged Mace - For Apprentice Adventurer -->
+		<item id="80245" count="1" equipped="true" /> <!-- Limited Leviathan Circlet - Robe -->
+		<item id="80246" count="1" equipped="true" /> <!-- Limited Leviathan Tunic - Robe -->
+		<item id="80247" count="1" equipped="true" /> <!-- Limited Leviathan Stockings -->
+		<item id="80248" count="1" equipped="true" /> <!-- Limited Leviathan Gloves -->
+		<item id="80249" count="1" equipped="true" /> <!-- Limited Leviathan Shoes -->
+		<item id="28324" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
+		<item id="28336" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
+		<item id="28342" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
+		<item id="28348" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
+		<item id="28354" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
+		<item id="80319" count="1" equipped="true" /> <!-- Enchanted Leviathan Sigil - Robe -->
+		<item id="48908" count="1" /> <!-- Shilen's Soul Crystal - Stage 10 -->
+		<item id="81751" count="1" /> <!-- Ruler's Authority - Chaos -->
+		<item id="28589" count="1" /> <!--Elmoreden Cloak - Legendary-->
+		<item id="10639" count="100" /> <!-- Mouse Coin -->
+		<item id="3031" count="100000" /> <!--Spirit Ore -->
+		<item id="1785" count="100000" /> <!--Soulstone -->
+		<item id="57" count="100000000" /> <!--Adena -->
+		<item id="23084" count="50" /> <!-- Mysterious Blessed Spiritshot Modest Pack (R-grade) -->
+		<item id="22888" count="50000" /> <!-- Mysterious Soulshot (R-grade) -->
+		<item id="19440" count="10000" /> <!-- Gemstone (R-grade) -->
+		<item id="80120" count="1" /> <!-- Superior Kaliel's Bracelet -->
+		<item id="81359" count="1" /> <!-- Enhanced La Vie En Rose's Brooch -->
+		<item id="81696" count="1" /> <!--Superior Artifact Book  -->
+		<item id="80958" count="1" /> <!-- "Sealed Heavenly Talisman -->
+		<item id="47816" count="1" /> <!-- Sayha's Talisman Lv. 10 -->
+		<item id="80959" count="1" /> <!-- Epic Talisman -->
+		<item id="39657" count="1" /> <!-- Venir's Talisman Lv. 24  -->
+		<item id="81769" count="1" /> <!-- Talisman of Protection Lv. 10 -->
+		<item id="81821" count="1" /> <!--Cara's Talisman  -->
+		<item id="26341" count="1" /> <!-- Talisman - Abundance Lv. 4 (High-grade) -->
+		<item id="48577" count="1" /> <!--Superior Seed Bracelet Lv. 4  -->
+		<item id="80944" count="1" /> <!-- Greater Aquarius Agathion Charm -->
+		<item id="80940" count="1" /> <!-- Greater Taurus Agathion Charm -->
+		<item id="80941" count="1" /> <!-- Greater Leo Agathion Charm -->
+		<item id="28948" count="1" /> <!-- Libra Agathion Charm From the Star - Stage 12 -->
+		<item id="48778" count="1" /> <!-- Greater Sapphire - Lv. 5 -->
+		<item id="48822" count="1" /> <!-- Greater Blue Cat's Eye - Lv. 5 -->
+		<item id="48786" count="1" /> <!-- Greater Opal - Lv. 5 -->
+		<item id="48798" count="1" /> <!-- Greater Diamond - Lv. 5 -->
+		<item id="48794" count="1" /> <!-- Greater Aquamarine - Lv. 5 -->
+		<item id="48790" count="1" /> <!--Greater Emerald (Lv. 5)  -->
+		<item id="29462" count="1" /> <!--Greater Amethyst Lv. 5  -->
+		<item id="48802" count="1" /> <!-- Greater Pearl - Lv. 5 -->
+		<item id="48770" count="1" /> <!-- Greater Topaz - Lv. 5 -->
+		<item id="48782" count="1" /> <!-- Greater Obsidian - Lv. 5 -->
+		<item id="48810" count="1" /> <!-- Greater Garnet - Lv. 5 -->
+		<item id="81114" count="30" /> <!-- маг крит атк -->
+		<item id="81124" count="30" /> <!-- мощность м умений -->
+		<item id="81104" count="30" /> <!-- маг атака -->
 	</equipment>
 	<!-- Orc Fighter -->
 	<equipment classId="44">
@@ -324,21 +453,63 @@
 		<item id="80941" count="1" /> <!--Greater Agathion Leo Charm  -->
 		<item id="80947" count="1" /> <!--Greater Agathion Cancer Charm  -->
 		<item id="80943" count="1" /> <!--Greater Agathion Scorpio Charm  -->
-		<item id="81084" count="1" /> <!--Legendary Dye Lv. 10 (P. Skill Critical Damage)  -->
-		<item id="81064" count="1" /> <!--Legendary Dye Lv. 10 (P. Atk.)  -->
-		<item id="81094" count="1" /> <!--Legendary Dye Lv. 10 (P. Skill Power)  -->
+		<item id="81084" count="30" /> <!--Legendary Dye Lv. 10 (P. Skill Critical Damage)  -->
+		<item id="81064" count="30" /> <!--Legendary Dye Lv. 10 (P. Atk.)  -->
+		<item id="81094" count="30" /> <!--Legendary Dye Lv. 10 (P. Skill Power)  -->
 	</equipment>
 	<!-- Orc Mystic -->
 	<equipment classId="49">
 		<item id="80686" count="1" equipped="true" /> <!-- Mage Staff - For Apprentice Adventurer -->
-		<item id="80695" count="1" equipped="true" /> <!-- Leather Helmet - Apprentice Adventurer -->
-		<item id="80696" count="1" equipped="true" /> <!-- Tunic of Devotion - Apprentice Adventurer -->
-		<item id="80697" count="1" equipped="true" /> <!-- Stockings of Devotion - Apprentice Adventurer -->
-		<item id="80693" count="1" equipped="true" /> <!-- Bracer - Apprentice Adventurer -->
-		<item id="80694" count="1" equipped="true" /> <!-- Boots - Apprentice Adventurer -->
-		<item id="10650" count="5" /> <!-- Adventurer's Scroll of Escape -->
-		<item id="33801" count="1" /> <!-- Mentoring Guidebook -->
-		<item id="80689" count="1" /> <!-- Flanged Mace - For Apprentice Adventurer -->
+		<item id="80245" count="1" equipped="true" /> <!-- Limited Leviathan Circlet - Robe -->
+		<item id="80246" count="1" equipped="true" /> <!-- Limited Leviathan Tunic - Robe -->
+		<item id="80247" count="1" equipped="true" /> <!-- Limited Leviathan Stockings -->
+		<item id="80248" count="1" equipped="true" /> <!-- Limited Leviathan Gloves -->
+		<item id="80249" count="1" equipped="true" /> <!-- Limited Leviathan Shoes -->
+		<item id="28324" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
+		<item id="28336" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
+		<item id="28342" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
+		<item id="28348" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
+		<item id="28354" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
+		<item id="80319" count="1" equipped="true" /> <!-- Enchanted Leviathan Sigil - Robe -->
+		<item id="48908" count="1" /> <!-- Shilen's Soul Crystal - Stage 10 -->
+		<item id="81751" count="1" /> <!-- Ruler's Authority - Chaos -->
+		<item id="28589" count="1" /> <!--Elmoreden Cloak - Legendary-->
+		<item id="10639" count="100" /> <!-- Mouse Coin -->
+		<item id="3031" count="100000" /> <!--Spirit Ore -->
+		<item id="1785" count="100000" /> <!--Soulstone -->
+		<item id="57" count="100000000" /> <!--Adena -->
+		<item id="23084" count="50" /> <!-- Mysterious Blessed Spiritshot Modest Pack (R-grade) -->
+		<item id="22888" count="50000" /> <!-- Mysterious Soulshot (R-grade) -->
+		<item id="19440" count="10000" /> <!-- Gemstone (R-grade) -->
+		<item id="80120" count="1" /> <!-- Superior Kaliel's Bracelet -->
+		<item id="81359" count="1" /> <!-- Enhanced La Vie En Rose's Brooch -->
+		<item id="81696" count="1" /> <!--Superior Artifact Book  -->
+		<item id="80958" count="1" /> <!-- "Sealed Heavenly Talisman -->
+		<item id="47816" count="1" /> <!-- Sayha's Talisman Lv. 10 -->
+		<item id="80959" count="1" /> <!-- Epic Talisman -->
+		<item id="39657" count="1" /> <!-- Venir's Talisman Lv. 24  -->
+		<item id="81769" count="1" /> <!-- Talisman of Protection Lv. 10 -->
+		<item id="81821" count="1" /> <!--Cara's Talisman  -->
+		<item id="26341" count="1" /> <!-- Talisman - Abundance Lv. 4 (High-grade) -->
+		<item id="48577" count="1" /> <!--Superior Seed Bracelet Lv. 4  -->
+		<item id="80944" count="1" /> <!-- Greater Aquarius Agathion Charm -->
+		<item id="80940" count="1" /> <!-- Greater Taurus Agathion Charm -->
+		<item id="80941" count="1" /> <!-- Greater Leo Agathion Charm -->
+		<item id="28948" count="1" /> <!-- Libra Agathion Charm From the Star - Stage 12 -->
+		<item id="48778" count="1" /> <!-- Greater Sapphire - Lv. 5 -->
+		<item id="48822" count="1" /> <!-- Greater Blue Cat's Eye - Lv. 5 -->
+		<item id="48786" count="1" /> <!-- Greater Opal - Lv. 5 -->
+		<item id="48798" count="1" /> <!-- Greater Diamond - Lv. 5 -->
+		<item id="48794" count="1" /> <!-- Greater Aquamarine - Lv. 5 -->
+		<item id="48790" count="1" /> <!--Greater Emerald (Lv. 5)  -->
+		<item id="29462" count="1" /> <!--Greater Amethyst Lv. 5  -->
+		<item id="48802" count="1" /> <!-- Greater Pearl - Lv. 5 -->
+		<item id="48770" count="1" /> <!-- Greater Topaz - Lv. 5 -->
+		<item id="48782" count="1" /> <!-- Greater Obsidian - Lv. 5 -->
+		<item id="48810" count="1" /> <!-- Greater Garnet - Lv. 5 -->
+		<item id="81114" count="30" /> <!-- маг крит атк -->
+		<item id="81124" count="30" /> <!-- мощность м умений -->
+		<item id="81104" count="30" /> <!-- маг атака -->
 	</equipment>
 	<!-- Dwarf Fighter -->
 	<equipment classId="53">
@@ -409,9 +580,9 @@
 		<item id="80941" count="1" /> <!--Greater Agathion Leo Charm  -->
 		<item id="80947" count="1" /> <!--Greater Agathion Cancer Charm  -->
 		<item id="80943" count="1" /> <!--Greater Agathion Scorpio Charm  -->
-		<item id="81084" count="1" /> <!--Legendary Dye Lv. 10 (P. Skill Critical Damage)  -->
-		<item id="81064" count="1" /> <!--Legendary Dye Lv. 10 (P. Atk.)  -->
-		<item id="81094" count="1" /> <!--Legendary Dye Lv. 10 (P. Skill Power)  -->
+		<item id="81084" count="30" /> <!--Legendary Dye Lv. 10 (P. Skill Critical Damage)  -->
+		<item id="81064" count="30" /> <!--Legendary Dye Lv. 10 (P. Atk.)  -->
+		<item id="81094" count="30" /> <!--Legendary Dye Lv. 10 (P. Skill Power)  -->
 	</equipment>
 	<!-- Male Kamael Soldier -->
 	<equipment classId="123">
@@ -482,9 +653,9 @@
 		<item id="80941" count="1" /> <!--Greater Agathion Leo Charm  -->
 		<item id="80947" count="1" /> <!--Greater Agathion Cancer Charm  -->
 		<item id="80943" count="1" /> <!--Greater Agathion Scorpio Charm  -->
-		<item id="81084" count="1" /> <!--Legendary Dye Lv. 10 (P. Skill Critical Damage)  -->
-		<item id="81064" count="1" /> <!--Legendary Dye Lv. 10 (P. Atk.)  -->
-		<item id="81094" count="1" /> <!--Legendary Dye Lv. 10 (P. Skill Power)  -->
+		<item id="81084" count="30" /> <!--Legendary Dye Lv. 10 (P. Skill Critical Damage)  -->
+		<item id="81064" count="30" /> <!--Legendary Dye Lv. 10 (P. Atk.)  -->
+		<item id="81094" count="30" /> <!--Legendary Dye Lv. 10 (P. Skill Power)  -->
 	</equipment>
 	<!-- Female Kamael Soldier -->
 	<equipment classId="124">
@@ -555,9 +726,9 @@
 		<item id="80941" count="1" /> <!--Greater Agathion Leo Charm  -->
 		<item id="80947" count="1" /> <!--Greater Agathion Cancer Charm  -->
 		<item id="80943" count="1" /> <!--Greater Agathion Scorpio Charm  -->
-		<item id="81084" count="1" /> <!--Legendary Dye Lv. 10 (P. Skill Critical Damage)  -->
-		<item id="81064" count="1" /> <!--Legendary Dye Lv. 10 (P. Atk.)  -->
-		<item id="81094" count="1" /> <!--Legendary Dye Lv. 10 (P. Skill Power)  -->
+		<item id="81084" count="30" /> <!--Legendary Dye Lv. 10 (P. Skill Critical Damage)  -->
+		<item id="81064" count="30" /> <!--Legendary Dye Lv. 10 (P. Atk.)  -->
+		<item id="81094" count="30" /> <!--Legendary Dye Lv. 10 (P. Skill Power)  -->
 	</equipment>
 	<!-- Ertheia Fighter -->
 	<equipment classId="182">
@@ -628,20 +799,63 @@
 		<item id="80941" count="1" /> <!--Greater Agathion Leo Charm  -->
 		<item id="80947" count="1" /> <!--Greater Agathion Cancer Charm  -->
 		<item id="80943" count="1" /> <!--Greater Agathion Scorpio Charm  -->
-		<item id="81084" count="1" /> <!--Legendary Dye Lv. 10 (P. Skill Critical Damage)  -->
-		<item id="81064" count="1" /> <!--Legendary Dye Lv. 10 (P. Atk.)  -->
-		<item id="81094" count="1" /> <!--Legendary Dye Lv. 10 (P. Skill Power)  -->
+		<item id="81084" count="30" /> <!--Legendary Dye Lv. 10 (P. Skill Critical Damage)  -->
+		<item id="81064" count="30" /> <!--Legendary Dye Lv. 10 (P. Atk.)  -->
+		<item id="81094" count="30" /> <!--Legendary Dye Lv. 10 (P. Skill Power)  -->
 	</equipment>
 	<!-- Ertheia Wizard -->
 	<equipment classId="183">
 		<item id="80686" count="1" equipped="true" /> <!-- Mage Staff - For Apprentice Adventurer -->
-		<item id="80695" count="1" equipped="true" /> <!-- Leather Helmet - Apprentice Adventurer -->
-		<item id="80696" count="1" equipped="true" /> <!-- Tunic of Devotion - Apprentice Adventurer -->
-		<item id="80697" count="1" equipped="true" /> <!-- Stockings of Devotion - Apprentice Adventurer -->
-		<item id="80693" count="1" equipped="true" /> <!-- Bracer - Apprentice Adventurer -->
-		<item id="80694" count="1" equipped="true" /> <!-- Boots - Apprentice Adventurer -->
-		<item id="10650" count="5" /> <!-- Adventurer's Scroll of Escape -->
-		<item id="33801" count="1" /> <!-- Mentoring Guidebook -->
+		<item id="80245" count="1" equipped="true" /> <!-- Limited Leviathan Circlet - Robe -->
+		<item id="80246" count="1" equipped="true" /> <!-- Limited Leviathan Tunic - Robe -->
+		<item id="80247" count="1" equipped="true" /> <!-- Limited Leviathan Stockings -->
+		<item id="80248" count="1" equipped="true" /> <!-- Limited Leviathan Gloves -->
+		<item id="80249" count="1" equipped="true" /> <!-- Limited Leviathan Shoes -->
+		<item id="28324" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
+		<item id="28336" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
+		<item id="28342" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
+		<item id="28348" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
+		<item id="28354" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
+		<item id="80319" count="1" equipped="true" /> <!-- Enchanted Leviathan Sigil - Robe -->
+		<item id="48908" count="1" /> <!-- Shilen's Soul Crystal - Stage 10 -->
+		<item id="81751" count="1" /> <!-- Ruler's Authority - Chaos -->
+		<item id="28589" count="1" /> <!--Elmoreden Cloak - Legendary-->
+		<item id="10639" count="100" /> <!-- Mouse Coin -->
+		<item id="3031" count="100000" /> <!--Spirit Ore -->
+		<item id="1785" count="100000" /> <!--Soulstone -->
+		<item id="57" count="100000000" /> <!--Adena -->
+		<item id="23084" count="50" /> <!-- Mysterious Blessed Spiritshot Modest Pack (R-grade) -->
+		<item id="22888" count="50000" /> <!-- Mysterious Soulshot (R-grade) -->
+		<item id="19440" count="10000" /> <!-- Gemstone (R-grade) -->
+		<item id="80120" count="1" /> <!-- Superior Kaliel's Bracelet -->
+		<item id="81359" count="1" /> <!-- Enhanced La Vie En Rose's Brooch -->
+		<item id="81696" count="1" /> <!--Superior Artifact Book  -->
+		<item id="80958" count="1" /> <!-- "Sealed Heavenly Talisman -->
+		<item id="47816" count="1" /> <!-- Sayha's Talisman Lv. 10 -->
+		<item id="80959" count="1" /> <!-- Epic Talisman -->
+		<item id="39657" count="1" /> <!-- Venir's Talisman Lv. 24  -->
+		<item id="81769" count="1" /> <!-- Talisman of Protection Lv. 10 -->
+		<item id="81821" count="1" /> <!--Cara's Talisman  -->
+		<item id="26341" count="1" /> <!-- Talisman - Abundance Lv. 4 (High-grade) -->
+		<item id="48577" count="1" /> <!--Superior Seed Bracelet Lv. 4  -->
+		<item id="80944" count="1" /> <!-- Greater Aquarius Agathion Charm -->
+		<item id="80940" count="1" /> <!-- Greater Taurus Agathion Charm -->
+		<item id="80941" count="1" /> <!-- Greater Leo Agathion Charm -->
+		<item id="28948" count="1" /> <!-- Libra Agathion Charm From the Star - Stage 12 -->
+		<item id="48778" count="1" /> <!-- Greater Sapphire - Lv. 5 -->
+		<item id="48822" count="1" /> <!-- Greater Blue Cat's Eye - Lv. 5 -->
+		<item id="48786" count="1" /> <!-- Greater Opal - Lv. 5 -->
+		<item id="48798" count="1" /> <!-- Greater Diamond - Lv. 5 -->
+		<item id="48794" count="1" /> <!-- Greater Aquamarine - Lv. 5 -->
+		<item id="48790" count="1" /> <!--Greater Emerald (Lv. 5)  -->
+		<item id="29462" count="1" /> <!--Greater Amethyst Lv. 5  -->
+		<item id="48802" count="1" /> <!-- Greater Pearl - Lv. 5 -->
+		<item id="48770" count="1" /> <!-- Greater Topaz - Lv. 5 -->
+		<item id="48782" count="1" /> <!-- Greater Obsidian - Lv. 5 -->
+		<item id="48810" count="1" /> <!-- Greater Garnet - Lv. 5 -->
+		<item id="81114" count="30" /> <!-- маг крит атк -->
+		<item id="81124" count="30" /> <!-- мощность м умений -->
+		<item id="81104" count="30" /> <!-- маг атака -->
 	</equipment>
 	<!-- Death Soldier -->
 	<equipment classId="212">
@@ -711,9 +925,9 @@
 		<item id="80941" count="1" /> <!--Greater Agathion Leo Charm  -->
 		<item id="80947" count="1" /> <!--Greater Agathion Cancer Charm  -->
 		<item id="80943" count="1" /> <!--Greater Agathion Scorpio Charm  -->
-		<item id="81084" count="1" /> <!--Legendary Dye Lv. 10 (P. Skill Critical Damage)  -->
-		<item id="81064" count="1" /> <!--Legendary Dye Lv. 10 (P. Atk.)  -->
-		<item id="81094" count="1" /> <!--Legendary Dye Lv. 10 (P. Skill Power)  -->
+		<item id="81084" count="30" /> <!--Legendary Dye Lv. 10 (P. Skill Critical Damage)  -->
+		<item id="81064" count="30" /> <!--Legendary Dye Lv. 10 (P. Atk.)  -->
+		<item id="81094" count="30" /> <!--Legendary Dye Lv. 10 (P. Skill Power)  -->
 
 
 	</equipment>

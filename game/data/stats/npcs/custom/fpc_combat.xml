@@ -424,7 +424,7 @@
 		</skillList>
 
 	</npc>
-		<!-- TH -->
+				<!-- TH -->
 	<npc id="81012" level="130" type="Monster" name="ТХСИЛА" title="Что-то на арабском">
 		<race>HUMAN</race>
 		<sex>MALE</sex>
@@ -452,12 +452,39 @@
 			<height normal="27" />
 		</collision>
 		<parameters>
-			<skill name="Skill01_ID" id="10267" level="4" />
-			<skill name="Skill02_ID" id="1760" level="5" />
+			<skill name="Skill01_ID" id="10516" level="11" /> <!-- Погоня за тенью -->
+			<skill name="Skill02_ID" id="10514" level="10" /> <!-- Парализующая тень -->
+			<skill name="Skill03_ID" id="10527" level="6" /> <!-- Парализующая тень -->
+			<skill name="Skill04_ID" id="10529" level="6" /> <!-- Парализующая тень -->
+			<skill name="Skill05_ID" id="10539" level="13" /> <!-- Парализующая тень -->
+			<skill name="Skill06_ID" id="10541" level="11" /> <!-- Парализующая тень -->
+			<skill name="Skill07_ID" id="10546" level="9" /> <!-- Парализующая тень -->
+			<skill name="Skill08_ID" id="10554" level="9" /> <!-- Парализующая тень -->
+			<skill name="Skill09_ID" id="10703" level="5" /> <!-- Парализующая тень -->
+			<skill name="Skill10_ID" id="19298" level="10" /> <!-- Парализующая тень -->
+			<skill name="Skill11_ID" id="19301" level="11" /> <!-- Парализующая тень -->
+			<skill name="Skill12_ID" id="531" level="8" /> <!-- Парализующая тень -->
 		</parameters>
 		<skillList>
-			<skill id="344" level="1" /> <!-- LethalBlow -->
-			<skill id="358" level="1" /> <!--Bluff  -->
+ 			<skill id="10508" level="375" />
+			<skill id="10509" level="13" />
+			<skill id="10510" level="13" />
+			<skill id="10513" level="12" />
+			<skill id="10517" level="1" />
+			<skill id="32141" level="1" />
+			<skill id="19299" level="9" />
+			<skill id="10516" level="11" /> <!-- Погоня за тенью -->
+			<skill id="10514" level="10" /> <!-- Парализующая тень -->
+			<skill id="10527" level="6" /> <!-- Парализующая тень -->
+			<skill id="10529" level="6" /> <!-- Парализующая тень -->
+			<skill id="10539" level="13" /> <!-- Парализующая тень -->
+			<skill id="10541" level="11" /> <!-- Парализующая тень -->
+			<skill id="10546" level="9" /> <!-- Парализующая тень -->
+			<skill id="10554" level="9" /> <!-- Парализующая тень -->
+			<skill id="10703" level="5" /> <!-- Парализующая тень -->
+			<skill id="19298" level="10" /> <!-- Парализующая тень -->
+			<skill id="19301" level="11" /> <!-- Парализующая тень -->
+			<skill id="531" level="8" /> <!-- Парализующая тень -->
 		</skillList>
 	</npc>
 		<!--Yul Tricketer -->

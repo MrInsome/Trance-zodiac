@@ -1,0 +1,7 @@
+30/10/2022 17:08:20>Tabak [268512733]>Drop>no-target>(id: 30375 name: Infinite Orichalcum Quiver objId: 268511754 x: -17022 y: 124141 z: -3144)
+30/10/2022 17:10:16>Tabak [268512733]>Drop>no-target>(id: 32255 name: Infinite Orichalcum Quiver objId: 268511789 x: -17022 y: 124141 z: -3144)
+30/10/2022 17:10:18>Tabak [268512733]>Drop>no-target>(id: 80433 name: Infinite Orichalcum Quiver objId: 268511793 x: -17022 y: 124141 z: -3144)
+30/10/2022 17:10:21>Tabak [268512733]>Drop>no-target>(id: 30375 name: Infinite Orichalcum Quiver objId: 268511783 x: -17022 y: 124141 z: -3144)
+30/10/2022 17:10:23>Tabak [268512733]>Drop>no-target>(id: 30376 name: Infinite Orichalcum Quiver objId: 268511784 x: -17022 y: 124141 z: -3144)
+30/10/2022 17:10:24>Tabak [268512733]>Drop>no-target>(id: 30377 name: Infinite Orichalcum Quiver objId: 268511785 x: -17022 y: 124141 z: -3144)
+30/10/2022 17:10:26>Tabak [268512733]>Drop>no-target>(id: 80434 name: Infinite Orichalcum Bolt Container objId: 268511794 x: -17022 y: 124141 z: -3144)

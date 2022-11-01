@@ -17,7 +17,7 @@ int recommends, int nobleLevel, boolean hero, int clanId, int pledgeStatus -->
 
 	<!-- Combat -->
 	<!-- Sigel Phoenix Knight -->
-	<fakePlayer npcId="81001" classId="148" hair="0" hairColor="0" face="0" equipRHand="37869" equipLHand="37212" equipHead="37209" equipGloves="37210" equipChest="37207" equipLegs="37208" equipFeet="37211" equipCloak="30310" />
+	<fakePlayer npcId="81001" classId="216" hair="0" hairColor="0" face="0" equipRHand="37869" equipLHand="37212" equipHead="37209" equipGloves="37210" equipChest="37207" equipLegs="37208" equipFeet="37211" equipCloak="30310" />
 	<!-- Tyrr Titan -->
 	<fakePlayer npcId="81002" classId="154" hair="0" hairColor="0" face="0" equipRHand="37870" equipHead="37215" equipGloves="37216" equipChest="37213" equipLegs="37214" equipFeet="37217" equipCloak="30311" />
 	<!-- Othell Fortune Seeker -->

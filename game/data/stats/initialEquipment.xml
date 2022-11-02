@@ -21,11 +21,11 @@
 		<item id="80194" count="1" /> <!-- Enchanted Leviathan Shield - Heavy Armor -->
 		<item id="81751" count="1" /> <!-- Ruler's Authority - Chaos -->
 		<item id="28589" count="1" /> <!--Elmoreden Cloak - Legendary-->
-		<item id="28324" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
-		<item id="28336" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
-		<item id="28342" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
-		<item id="28348" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
-		<item id="28354" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
+		<item id="80333" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
+		<item id="80334" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
+		<item id="80334" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
+		<item id="80335" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
+		<item id="80335" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
 		<item id="81359" count="1" /> <!-- Enhanced La Vie En Rose's Brooch -->
 		<item id="81510" count="1" /> <!--Superior Ruby Lv. 6 -->
 		<item id="81871" count="1" /> <!-- Superior Red Cat's Eye Lv. 10 -->
@@ -72,6 +72,7 @@
 		<item id="81084" count="30" /> <!--Legendary Dye Lv. 10 (P. Skill Critical Damage)  -->
 		<item id="81064" count="30" /> <!--Legendary Dye Lv. 10 (P. Atk.)  -->
 		<item id="81094" count="30" /> <!--Legendary Dye Lv. 10 (P. Skill Power)  -->
+		<item id="81437" count="3" /> <!-- Артефакт снижение фикс урона - поддержка -->
 	</equipment>
 	<!-- Human Mystic -->
 	<equipment classId="10">
@@ -81,11 +82,11 @@
 		<item id="80247" count="1" equipped="true" /> <!-- Limited Leviathan Stockings -->
 		<item id="80248" count="1" equipped="true" /> <!-- Limited Leviathan Gloves -->
 		<item id="80249" count="1" equipped="true" /> <!-- Limited Leviathan Shoes -->
-		<item id="28324" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
-		<item id="28336" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
-		<item id="28342" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
-		<item id="28348" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
-		<item id="28354" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
+		<item id="80333" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
+		<item id="80334" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
+		<item id="80334" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
+		<item id="80335" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
+		<item id="80335" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
 		<item id="80319" count="1" equipped="true" /> <!-- Enchanted Leviathan Sigil - Robe -->
 		<item id="48908" count="1" /> <!-- Shilen's Soul Crystal - Stage 10 -->
 		<item id="81751" count="1" /> <!-- Ruler's Authority - Chaos -->
@@ -126,7 +127,10 @@
 		<item id="81114" count="30" /> <!-- маг крит атк -->
 		<item id="81124" count="30" /> <!-- мощность м умений -->
 		<item id="81104" count="30" /> <!-- маг атака -->
-
+		<item id="48984" count="12" /> <!-- Artifact - M. Skill Power - Balance-->
+		<item id="81432" count="3" /> <!-- Артефакт маг умений атака -->
+		<item id="48961" count="3" /> <!-- Artifact - P. Def. - Protection -->
+		<item id="81437" count="3" /> <!-- Артефакт снижение фикс урона - поддержка -->
 
 
 	</equipment>
@@ -151,11 +155,11 @@
 		<item id="80194" count="1" /> <!-- Enchanted Leviathan Shield - Heavy Armor -->
 		<item id="81751" count="1" /> <!-- Ruler's Authority - Chaos -->
 		<item id="28589" count="1" /> <!--Elmoreden Cloak - Legendary-->
-		<item id="28324" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
-		<item id="28336" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
-		<item id="28342" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
-		<item id="28348" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
-		<item id="28354" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
+		<item id="80333" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
+		<item id="80334" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
+		<item id="80334" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
+		<item id="80335" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
+		<item id="80335" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
 		<item id="81359" count="1" /> <!-- Enhanced La Vie En Rose's Brooch -->
 		<item id="81510" count="1" /> <!--Superior Ruby Lv. 6 -->
 		<item id="81871" count="1" /> <!-- Superior Red Cat's Eye Lv. 10 -->
@@ -202,6 +206,7 @@
 		<item id="81084" count="30" /> <!--Legendary Dye Lv. 10 (P. Skill Critical Damage)  -->
 		<item id="81064" count="30" /> <!--Legendary Dye Lv. 10 (P. Atk.)  -->
 		<item id="81094" count="30" /> <!--Legendary Dye Lv. 10 (P. Skill Power)  -->
+		<item id="81437" count="3" /> <!-- Артефакт снижение фикс урона - поддержка -->
 	</equipment>
 	<!-- Elven Mystic -->
 	<equipment classId="25">
@@ -211,11 +216,11 @@
 		<item id="80247" count="1" equipped="true" /> <!-- Limited Leviathan Stockings -->
 		<item id="80248" count="1" equipped="true" /> <!-- Limited Leviathan Gloves -->
 		<item id="80249" count="1" equipped="true" /> <!-- Limited Leviathan Shoes -->
-		<item id="28324" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
-		<item id="28336" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
-		<item id="28342" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
-		<item id="28348" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
-		<item id="28354" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
+		<item id="80333" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
+		<item id="80334" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
+		<item id="80334" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
+		<item id="80335" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
+		<item id="80335" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
 		<item id="80319" count="1" equipped="true" /> <!-- Enchanted Leviathan Sigil - Robe -->
 		<item id="48908" count="1" /> <!-- Shilen's Soul Crystal - Stage 10 -->
 		<item id="81751" count="1" /> <!-- Ruler's Authority - Chaos -->
@@ -256,6 +261,10 @@
 		<item id="81114" count="30" /> <!-- маг крит атк -->
 		<item id="81124" count="30" /> <!-- мощность м умений -->
 		<item id="81104" count="30" /> <!-- маг атака -->
+		<item id="48984" count="12" /> <!-- Artifact - M. Skill Power - Balance-->
+		<item id="81432" count="3" /> <!-- Артефакт маг умений атака -->
+		<item id="48961" count="3" /> <!-- Artifact - P. Def. - Protection -->
+		<item id="81437" count="3" /> <!-- Артефакт снижение фикс урона - поддержка -->
 	</equipment>
 	<!-- Dark Fighter -->
 	<equipment classId="31">
@@ -278,11 +287,11 @@
 		<item id="80194" count="1" /> <!-- Enchanted Leviathan Shield - Heavy Armor -->
 		<item id="81751" count="1" /> <!-- Ruler's Authority - Chaos -->
 		<item id="28589" count="1" /> <!--Elmoreden Cloak - Legendary-->
-		<item id="28324" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
-		<item id="28336" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
-		<item id="28342" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
-		<item id="28348" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
-		<item id="28354" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
+		<item id="80333" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
+		<item id="80334" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
+		<item id="80334" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
+		<item id="80335" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
+		<item id="80335" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
 		<item id="81359" count="1" /> <!-- Enhanced La Vie En Rose's Brooch -->
 		<item id="81510" count="1" /> <!--Superior Ruby Lv. 6 -->
 		<item id="81871" count="1" /> <!-- Superior Red Cat's Eye Lv. 10 -->
@@ -329,6 +338,7 @@
 		<item id="81084" count="30" /> <!--Legendary Dye Lv. 10 (P. Skill Critical Damage)  -->
 		<item id="81064" count="30" /> <!--Legendary Dye Lv. 10 (P. Atk.)  -->
 		<item id="81094" count="30" /> <!--Legendary Dye Lv. 10 (P. Skill Power)  -->
+		<item id="81437" count="3" /> <!-- Артефакт снижение фикс урона - поддержка -->
 	</equipment>
 	<!-- Dark Mystic -->
 	<equipment classId="38">
@@ -338,11 +348,11 @@
 		<item id="80247" count="1" equipped="true" /> <!-- Limited Leviathan Stockings -->
 		<item id="80248" count="1" equipped="true" /> <!-- Limited Leviathan Gloves -->
 		<item id="80249" count="1" equipped="true" /> <!-- Limited Leviathan Shoes -->
-		<item id="28324" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
-		<item id="28336" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
-		<item id="28342" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
-		<item id="28348" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
-		<item id="28354" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
+		<item id="80333" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
+		<item id="80334" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
+		<item id="80334" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
+		<item id="80335" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
+		<item id="80335" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
 		<item id="80319" count="1" equipped="true" /> <!-- Enchanted Leviathan Sigil - Robe -->
 		<item id="48908" count="1" /> <!-- Shilen's Soul Crystal - Stage 10 -->
 		<item id="81751" count="1" /> <!-- Ruler's Authority - Chaos -->
@@ -383,6 +393,10 @@
 		<item id="81114" count="30" /> <!-- маг крит атк -->
 		<item id="81124" count="30" /> <!-- мощность м умений -->
 		<item id="81104" count="30" /> <!-- маг атака -->
+		<item id="48984" count="12" /> <!-- Artifact - M. Skill Power - Balance-->
+		<item id="81432" count="3" /> <!-- Артефакт маг умений атака -->
+		<item id="48961" count="3" /> <!-- Artifact - P. Def. - Protection -->
+		<item id="81437" count="3" /> <!-- Артефакт снижение фикс урона - поддержка -->
 	</equipment>
 	<!-- Orc Fighter -->
 	<equipment classId="44">
@@ -405,11 +419,11 @@
 		<item id="80194" count="1" /> <!-- Enchanted Leviathan Shield - Heavy Armor -->
 		<item id="81751" count="1" /> <!-- Ruler's Authority - Chaos -->
 		<item id="28589" count="1" /> <!--Elmoreden Cloak - Legendary-->
-		<item id="28324" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
-		<item id="28336" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
-		<item id="28342" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
-		<item id="28348" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
-		<item id="28354" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
+		<item id="80333" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
+		<item id="80334" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
+		<item id="80334" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
+		<item id="80335" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
+		<item id="80335" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
 		<item id="81359" count="1" /> <!-- Enhanced La Vie En Rose's Brooch -->
 		<item id="81510" count="1" /> <!--Superior Ruby Lv. 6 -->
 		<item id="81871" count="1" /> <!-- Superior Red Cat's Eye Lv. 10 -->
@@ -456,6 +470,7 @@
 		<item id="81084" count="30" /> <!--Legendary Dye Lv. 10 (P. Skill Critical Damage)  -->
 		<item id="81064" count="30" /> <!--Legendary Dye Lv. 10 (P. Atk.)  -->
 		<item id="81094" count="30" /> <!--Legendary Dye Lv. 10 (P. Skill Power)  -->
+		<item id="81437" count="3" /> <!-- Артефакт снижение фикс урона - поддержка -->
 	</equipment>
 	<!-- Orc Mystic -->
 	<equipment classId="49">
@@ -465,11 +480,11 @@
 		<item id="80247" count="1" equipped="true" /> <!-- Limited Leviathan Stockings -->
 		<item id="80248" count="1" equipped="true" /> <!-- Limited Leviathan Gloves -->
 		<item id="80249" count="1" equipped="true" /> <!-- Limited Leviathan Shoes -->
-		<item id="28324" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
-		<item id="28336" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
-		<item id="28342" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
-		<item id="28348" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
-		<item id="28354" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
+		<item id="80333" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
+		<item id="80334" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
+		<item id="80334" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
+		<item id="80335" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
+		<item id="80335" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
 		<item id="80319" count="1" equipped="true" /> <!-- Enchanted Leviathan Sigil - Robe -->
 		<item id="48908" count="1" /> <!-- Shilen's Soul Crystal - Stage 10 -->
 		<item id="81751" count="1" /> <!-- Ruler's Authority - Chaos -->
@@ -510,6 +525,10 @@
 		<item id="81114" count="30" /> <!-- маг крит атк -->
 		<item id="81124" count="30" /> <!-- мощность м умений -->
 		<item id="81104" count="30" /> <!-- маг атака -->
+		<item id="48984" count="12" /> <!-- Artifact - M. Skill Power - Balance-->
+		<item id="81432" count="3" /> <!-- Артефакт маг умений атака -->
+		<item id="48961" count="3" /> <!-- Artifact - P. Def. - Protection -->
+		<item id="81437" count="3" /> <!-- Артефакт снижение фикс урона - поддержка -->
 	</equipment>
 	<!-- Dwarf Fighter -->
 	<equipment classId="53">
@@ -532,11 +551,11 @@
 		<item id="80194" count="1" /> <!-- Enchanted Leviathan Shield - Heavy Armor -->
 		<item id="81751" count="1" /> <!-- Ruler's Authority - Chaos -->
 		<item id="28589" count="1" /> <!--Elmoreden Cloak - Legendary-->
-		<item id="28324" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
-		<item id="28336" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
-		<item id="28342" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
-		<item id="28348" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
-		<item id="28354" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
+		<item id="80333" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
+		<item id="80334" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
+		<item id="80334" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
+		<item id="80335" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
+		<item id="80335" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
 		<item id="81359" count="1" /> <!-- Enhanced La Vie En Rose's Brooch -->
 		<item id="81510" count="1" /> <!--Superior Ruby Lv. 6 -->
 		<item id="81871" count="1" /> <!-- Superior Red Cat's Eye Lv. 10 -->
@@ -583,6 +602,7 @@
 		<item id="81084" count="30" /> <!--Legendary Dye Lv. 10 (P. Skill Critical Damage)  -->
 		<item id="81064" count="30" /> <!--Legendary Dye Lv. 10 (P. Atk.)  -->
 		<item id="81094" count="30" /> <!--Legendary Dye Lv. 10 (P. Skill Power)  -->
+		<item id="81437" count="3" /> <!-- Артефакт снижение фикс урона - поддержка -->
 	</equipment>
 	<!-- Male Kamael Soldier -->
 	<equipment classId="123">
@@ -605,11 +625,11 @@
 		<item id="80194" count="1" /> <!-- Enchanted Leviathan Shield - Heavy Armor -->
 		<item id="81751" count="1" /> <!-- Ruler's Authority - Chaos -->
 		<item id="28589" count="1" /> <!--Elmoreden Cloak - Legendary-->
-		<item id="28324" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
-		<item id="28336" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
-		<item id="28342" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
-		<item id="28348" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
-		<item id="28354" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
+		<item id="80333" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
+		<item id="80334" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
+		<item id="80334" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
+		<item id="80335" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
+		<item id="80335" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
 		<item id="81359" count="1" /> <!-- Enhanced La Vie En Rose's Brooch -->
 		<item id="81510" count="1" /> <!--Superior Ruby Lv. 6 -->
 		<item id="81871" count="1" /> <!-- Superior Red Cat's Eye Lv. 10 -->
@@ -656,6 +676,7 @@
 		<item id="81084" count="30" /> <!--Legendary Dye Lv. 10 (P. Skill Critical Damage)  -->
 		<item id="81064" count="30" /> <!--Legendary Dye Lv. 10 (P. Atk.)  -->
 		<item id="81094" count="30" /> <!--Legendary Dye Lv. 10 (P. Skill Power)  -->
+		<item id="81437" count="3" /> <!-- Артефакт снижение фикс урона - поддержка -->
 	</equipment>
 	<!-- Female Kamael Soldier -->
 	<equipment classId="124">
@@ -678,11 +699,11 @@
 		<item id="80194" count="1" /> <!-- Enchanted Leviathan Shield - Heavy Armor -->
 		<item id="81751" count="1" /> <!-- Ruler's Authority - Chaos -->
 		<item id="28589" count="1" /> <!--Elmoreden Cloak - Legendary-->
-		<item id="28324" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
-		<item id="28336" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
-		<item id="28342" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
-		<item id="28348" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
-		<item id="28354" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
+		<item id="80333" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
+		<item id="80334" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
+		<item id="80334" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
+		<item id="80335" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
+		<item id="80335" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
 		<item id="81359" count="1" /> <!-- Enhanced La Vie En Rose's Brooch -->
 		<item id="81510" count="1" /> <!--Superior Ruby Lv. 6 -->
 		<item id="81871" count="1" /> <!-- Superior Red Cat's Eye Lv. 10 -->
@@ -729,6 +750,7 @@
 		<item id="81084" count="30" /> <!--Legendary Dye Lv. 10 (P. Skill Critical Damage)  -->
 		<item id="81064" count="30" /> <!--Legendary Dye Lv. 10 (P. Atk.)  -->
 		<item id="81094" count="30" /> <!--Legendary Dye Lv. 10 (P. Skill Power)  -->
+		<item id="81437" count="3" /> <!-- Артефакт снижение фикс урона - поддержка -->
 	</equipment>
 	<!-- Ertheia Fighter -->
 	<equipment classId="182">
@@ -751,11 +773,11 @@
 		<item id="80194" count="1" /> <!-- Enchanted Leviathan Shield - Heavy Armor -->
 		<item id="81751" count="1" /> <!-- Ruler's Authority - Chaos -->
 		<item id="28589" count="1" /> <!--Elmoreden Cloak - Legendary-->
-		<item id="28324" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
-		<item id="28336" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
-		<item id="28342" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
-		<item id="28348" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
-		<item id="28354" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
+		<item id="80333" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
+		<item id="80334" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
+		<item id="80334" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
+		<item id="80335" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
+		<item id="80335" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
 		<item id="81359" count="1" /> <!-- Enhanced La Vie En Rose's Brooch -->
 		<item id="81510" count="1" /> <!--Superior Ruby Lv. 6 -->
 		<item id="81871" count="1" /> <!-- Superior Red Cat's Eye Lv. 10 -->
@@ -802,6 +824,7 @@
 		<item id="81084" count="30" /> <!--Legendary Dye Lv. 10 (P. Skill Critical Damage)  -->
 		<item id="81064" count="30" /> <!--Legendary Dye Lv. 10 (P. Atk.)  -->
 		<item id="81094" count="30" /> <!--Legendary Dye Lv. 10 (P. Skill Power)  -->
+		<item id="81437" count="3" /> <!-- Артефакт снижение фикс урона - поддержка -->
 	</equipment>
 	<!-- Ertheia Wizard -->
 	<equipment classId="183">
@@ -811,11 +834,11 @@
 		<item id="80247" count="1" equipped="true" /> <!-- Limited Leviathan Stockings -->
 		<item id="80248" count="1" equipped="true" /> <!-- Limited Leviathan Gloves -->
 		<item id="80249" count="1" equipped="true" /> <!-- Limited Leviathan Shoes -->
-		<item id="28324" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
-		<item id="28336" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
-		<item id="28342" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
-		<item id="28348" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
-		<item id="28354" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
+		<item id="80333" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
+		<item id="80334" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
+		<item id="80334" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
+		<item id="80335" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
+		<item id="80335" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
 		<item id="80319" count="1" equipped="true" /> <!-- Enchanted Leviathan Sigil - Robe -->
 		<item id="48908" count="1" /> <!-- Shilen's Soul Crystal - Stage 10 -->
 		<item id="81751" count="1" /> <!-- Ruler's Authority - Chaos -->
@@ -856,6 +879,10 @@
 		<item id="81114" count="30" /> <!-- маг крит атк -->
 		<item id="81124" count="30" /> <!-- мощность м умений -->
 		<item id="81104" count="30" /> <!-- маг атака -->
+		<item id="48984" count="12" /> <!-- Artifact - M. Skill Power - Balance-->
+		<item id="81432" count="3" /> <!-- Артефакт маг умений атака -->
+		<item id="48961" count="3" /> <!-- Artifact - P. Def. - Protection -->
+		<item id="81437" count="3" /> <!-- Артефакт снижение фикс урона - поддержка -->
 	</equipment>
 	<!-- Death Soldier -->
 	<equipment classId="212">
@@ -878,11 +905,11 @@
 		<item id="80194" count="1" /> <!-- Enchanted Leviathan Shield - Heavy Armor -->
 		<item id="81751" count="1" /> <!-- Ruler's Authority - Chaos -->
 		<item id="28589" count="1" /> <!--Elmoreden Cloak - Legendary-->
-		<item id="28324" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
-		<item id="28336" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
-		<item id="28342" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
-		<item id="28348" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
-		<item id="28354" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
+		<item id="80333" count="1" equipped="true" /> <!-- Sealed Gran Kain's Necklace Lv. 6 -->
+		<item id="80334" count="1" equipped="true" /> <!-- Sealed Pa'agrio's Earring Lv. 6 -->
+		<item id="80334" count="1" equipped="true" /> <!-- Sealed Eva's Earring Lv. 6" -->
+		<item id="80335" count="1" equipped="true" /> <!-- Sealed Sayha's Ring Lv. 6" -->
+		<item id="80335" count="1" equipped="true" /> <!-- Sealed Maphr's Ring Lv. 6 -->
 		<item id="81359" count="1" /> <!-- Enhanced La Vie En Rose's Brooch -->
 		<item id="81510" count="1" /> <!--Superior Ruby Lv. 6 -->
 		<item id="81871" count="1" /> <!-- Superior Red Cat's Eye Lv. 10 -->
@@ -928,6 +955,7 @@
 		<item id="81084" count="30" /> <!--Legendary Dye Lv. 10 (P. Skill Critical Damage)  -->
 		<item id="81064" count="30" /> <!--Legendary Dye Lv. 10 (P. Atk.)  -->
 		<item id="81094" count="30" /> <!--Legendary Dye Lv. 10 (P. Skill Power)  -->
+		<item id="81437" count="3" /> <!-- Артефакт снижение фикс урона - поддержка -->
 
 
 	</equipment>

@@ -13,7 +13,7 @@
 		Unused for now, mark for SHOT type
 		
 	weapon_type          : renamed from (weaponType)
-		Possible values  : sword, blunt, dagger, bow, pole, dual, etc, fist, dualfist, fishingrod, rapier, ancientsword, crossbow, flag, ownthing, dualdagger
+		Possible values  : sword, blunt, dagger, bow, pole, dual, etc, fist, dualfist, fishingrod, rapier, ancientsword, crossbow, flag, ownthing, dualdagger,Wblunt
 		Default value    : none - not present in xml
 
 	armor_type

@@ -54,27 +54,13 @@
 		<set name="is_clan_depositable" val="false" />
 		<set name="is_mailable" val="false" />
 	</item>
-	<item id="96959" name="Test - Challenge Points"	additionalName="Lv. 5" type="EtcItem">
-		<!-- For Test -->
-		<set name="icon" val="icon.bm_challenger_wp_trade_ticket" />
-		<set name="default_action" val="NONE" />
-		<set name="material" val="STEEL" />
-		<set name="is_tradable" val="false" />
-		<set name="is_dropable" val="false" />
-		<set name="is_sellable" val="false" />
-		<set name="is_destroyable" val="true" />
-		<set name="is_private_storeable" val="true" />
-		<set name="is_commissionable" val="false" />
-		<set name="is_clan_depositable" val="false" />
-		<set name="is_mailable" val="false" />
-	</item>
-	<item id="96960" name="Кирка рудокопа" type="Weapon">
-		<!--кирка для добычи руды -->
+	<item id="96958" name="Miner start blunt" type="Weapon">
+		<!-- Кирка для добычи руды -->
 		<set name="icon" val="icon.weapon_basalt_battlehammer_i00" />
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="WBLUNT" />
 		<set name="bodypart" val="rhand" />
-		<set name="damage_range" val="120" />
+		<set name="damage_range" val="0;0;40;120" />
 		<set name="immediate_effect" val="true" />
 		<set name="crystal_count" val="1368" />
 		<set name="crystal_type" val="S" />
@@ -83,18 +69,17 @@
 		<set name="price" val="42759400" />
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
-		<set name="element_enabled" val="true" />
-		<set name="enchant_enabled" val="true" />
-		<set name="isAppearanceable" val="true" />
-		<set name="commissionItemType" val="BLUNT_WEAPON" />
+		<set name="element_enabled" val="False" />
+		<set name="enchant_enabled" val="False" />
 		<stats>
-			<stat type="pAtk">100</stat>
-			<stat type="mAtk">0</stat>
-			<stat type="rCrit">0</stat>
+			<stat type="pAtk">281</stat>
+			<stat type="mAtk">132</stat>
+			<stat type="rCrit">6</stat>
 			<stat type="accCombat">8</stat>
-			<stat type="pAtkSpd">1200</stat>
+			<stat type="pAtkSpd">500</stat>
 			<stat type="randomDamage">20</stat>
 			<stat type="pAtkRange">40</stat>
 		</stats>
 	</item>
+
 </list>

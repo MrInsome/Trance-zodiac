@@ -1841,7 +1841,7 @@
 			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
 			<skill id="4412" level="11" /> <!-- Average P. Def. -->
 			<skill id="4413" level="11" /> <!-- Average M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="55032" level="1" /> <!-- резист -->
 			<skill id="4415" level="1" /> <!-- Bare Hands -->
 			<skill id="4390" level="1" /> <!-- Mystic Immunity -->
 			<skill id="4045" level="1" /> <!-- Full Magic Attack Resistance -->

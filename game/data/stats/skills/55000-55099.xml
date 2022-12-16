@@ -36,4 +36,28 @@
 			</effect>
 		</effects>
 	</skill>
+	<skill id="55032" toLevel="1" name="Защита ресурса">
+		<icon>icon.skill0000</icon>
+		<magicLevel>1</magicLevel>
+		<operateType>P</operateType>
+		<magicCriticalRate>-5</magicCriticalRate>
+		<effects>
+			<effect name="DefenceTrait">
+				<SWORD>500</SWORD>
+				<BLUNT>500</BLUNT>
+				<DAGGER>500</DAGGER>
+				<BOW>500</BOW>
+				<POLE>500</POLE>
+				<DUAL>500</DUAL>
+				<FIST>500</FIST>
+				<DUALFIST>500</DUALFIST>
+				<RAPIER>500</RAPIER>
+				<ANCIENTSWORD>500</ANCIENTSWORD>
+				<CROSSBOW>500</CROSSBOW>
+				<DUALDAGGER>500</DUALDAGGER>
+				<DUALBLUNT>500</DUALBLUNT>
+				<TWOHANDCROSSBOW>500</TWOHANDCROSSBOW>
+			</effect>
+		</effects>
+	</skill>
 </list>

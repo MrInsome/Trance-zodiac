@@ -53,7 +53,7 @@
 	<class classId="50" name="Orc Shaman" parentClassId="49" />
 	<class classId="51" name="Overlord" parentClassId="50" />
 	<class classId="52" name="Warcryer" parentClassId="50" />
-	<class classId="53" name="Dwarf Fighter" />
+	<class classId="53" name="Шахтер" />
 	<class classId="54" name="Scavenger" parentClassId="53" />
 	<class classId="55" name="Bounty Hunter" parentClassId="54" />
 	<class classId="56" name="Artisan" parentClassId="53" />

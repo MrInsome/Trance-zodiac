@@ -877,42 +877,42 @@
 		<magicCriticalRate>5</magicCriticalRate>
 		<effects>
 			<effect name="MaxHp">
-				<amount>80</amount>
+				<amount>100</amount>
 				<mode>DIFF</mode>
 				<armorType>
 					<item>LIGHT</item>
 				</armorType>
 			</effect>
 			<effect name="PhysicalDefence">
-				<amount>17</amount>
+				<amount>50</amount>
 				<mode>DIFF</mode>
 				<armorType>
 					<item>LIGHT</item>
 				</armorType>
 			</effect>
 			<effect name="PhysicalAttackSpeed">
-				<amount>5</amount>
+				<amount>15</amount>
 				<mode>PER</mode>
 				<armorType>
 					<item>LIGHT</item>
 				</armorType>
 			</effect>
 			<effect name="Accuracy">
-				<amount>1</amount>
+				<amount>10</amount>
 				<mode>DIFF</mode>
 				<armorType>
 					<item>LIGHT</item>
 				</armorType>
 			</effect>
 			<effect name="PhysicalEvasion">
-				<amount>3</amount>
+				<amount>15</amount>
 				<mode>DIFF</mode>
 				<armorType>
 					<item>LIGHT</item>
 				</armorType>
 			</effect>
 			<effect name="Speed">
-				<amount>5</amount>
+				<amount>20</amount>
 				<mode>DIFF</mode>
 				<armorType>
 					<item>LIGHT</item>
@@ -924,10 +924,6 @@
 				<armorType>
 					<item>LIGHT</item>
 				</armorType>
-			</effect>
-			<effect name="StatUp">
-				<amount>1</amount>
-				<stat>STR</stat>
 			</effect>
 		</effects>
 	</skill>
@@ -1157,16 +1153,14 @@
 		</effects>
 	</skill>
 	<skill id="30636" toLevel="1" name="Bow/Crossbow Mastery">
-		<!-- P. Atk. +$s1 and additionally +$s2 when using a bow or a crossbow. Atk. Spd. +$s3, P. Accuracy +$s4. STR +$s5. Depending on your STR, the skill cooldown can be reset or its duration can be increased by $s6 times. -->
+		<!-- P. Atk. +$s1 and additionally +$s2 when using a bow or a crossbow. Atk. Spd. +$s3, P. Accuracy +$s4. . Depending on your STR, the skill cooldown can be reset or its duration can be increased by $s6 times. -->
 		<icon>icon.skill10751</icon>
 		<operateType>P</operateType>
 		<magicCriticalRate>5</magicCriticalRate>
 		<effects>
-			<effect name="SkillMastery">
-				<stat>STR</stat>
-			</effect>
+
 			<effect name="PAtk">
-				<amount>5</amount>
+				<amount>10</amount>
 				<mode>PER</mode>
 				<weaponType>
 					<item>BOW</item>
@@ -1184,7 +1178,7 @@
 				</weaponType>
 			</effect>
 			<effect name="PhysicalAttackSpeed">
-				<amount>5</amount>
+				<amount>10</amount>
 				<mode>PER</mode>
 				<weaponType>
 					<item>BOW</item>
@@ -1193,17 +1187,13 @@
 				</weaponType>
 			</effect>
 			<effect name="Accuracy">
-				<amount>4</amount>
+				<amount>15</amount>
 				<mode>DIFF</mode>
 				<weaponType>
 					<item>BOW</item>
 					<item>CROSSBOW</item>
 					<item>TWOHANDCROSSBOW</item>
 				</weaponType>
-			</effect>
-			<effect name="StatUp">
-				<amount>1</amount>
-				<stat>STR</stat>
 			</effect>
 		</effects>
 	</skill>
@@ -3091,7 +3081,6 @@
 		<!-- Deals Water damage with $s1 power. For $s2, M. Def. -$s3, Atk. Spd./ Casting Spd. -$s4. Over-hit. -->
 		<icon>icon.skill11025</icon>
 		<operateType>A2</operateType>
-		<isMagic>1</isMagic> <!-- Magic Skill -->
 		<isDebuff>true</isDebuff>
 		<castRange>800</castRange>
 		<hitTime>6080</hitTime>

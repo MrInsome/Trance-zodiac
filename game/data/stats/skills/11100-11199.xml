@@ -2485,10 +2485,6 @@
 		<abnormalTime>5</abnormalTime>
 		<channelingTickInterval>1</channelingTickInterval>
 		<channelingStart>2</channelingStart>
-		<attributeType>WATER</attributeType>
-		<attributeValue>100</attributeValue>
-		<itemConsumeCount>5</itemConsumeCount>
-		<itemConsumeId>3031</itemConsumeId> <!-- Spirit Ore -->
 		<operateType>CA1</operateType>
 		<targetType>GROUND</targetType>
 		<affectScope>POINT_BLANK</affectScope>

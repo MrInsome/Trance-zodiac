@@ -1065,7 +1065,7 @@
 		<magicCriticalRate>5</magicCriticalRate>
 		<effects>
 			<effect name="MaxHp">
-				<amount>444</amount>
+				<amount>2000</amount>
 				<mode>DIFF</mode>
 			</effect>
 		</effects>

@@ -1811,12 +1811,12 @@
 			<height normal="33.5" />
 		</collision>
 	</npc>
-	<npc id="32046" level="1" type="Folk" name="Suspicious-looking Pile of Stones">
+	<npc id="32046" level="1" type="Monster" name="Suspicious-looking Pile of Stones">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
 		</parameters>
-		<race>RESURSES</race>
+		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
 		<stats str="1" int="1" dex="1" wit="1" con="1" men="78">
 			<vitals hp="2444.46819" hpRegen="7.5" mp="1345.8" mpRegen="2.7" />
@@ -1828,7 +1828,7 @@
 			</speed>
 			<hitTime>0</hitTime>
 			<attribute>
-				<defence fire="0" water="0" wind="0" earth="0" holy="0" dark="0" />
+				<defence fire="0" water="0" wind="0" earth="-1000" holy="0" dark="0" />
 			</attribute>
 			<abnormalResist physical="10" magical="10" />
 		</stats>

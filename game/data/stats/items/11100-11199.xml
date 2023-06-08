@@ -827,7 +827,7 @@
 			<stat type="accCombat">-3.75</stat>
 			<stat type="pAtkSpd">227</stat>
 			<stat type="randomDamage">5</stat>
-			<stat type="pAtkRange">500</stat>
+			<stat type="pAtkRange">850</stat>
 		</stats>
 	</item>
 	<item id="11125" name="Soul Bow - Clairvoyance" additionalName="Cheap Shot" type="Weapon">

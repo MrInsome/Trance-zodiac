@@ -44,7 +44,6 @@
 		<effects>
 			<effect name="DefenceTrait">
 				<SWORD>500</SWORD>
-				<BLUNT>500</BLUNT>
 				<DAGGER>500</DAGGER>
 				<BOW>500</BOW>
 				<POLE>500</POLE>
@@ -55,7 +54,6 @@
 				<ANCIENTSWORD>500</ANCIENTSWORD>
 				<CROSSBOW>500</CROSSBOW>
 				<DUALDAGGER>500</DUALDAGGER>
-				<DUALBLUNT>500</DUALBLUNT>
 				<TWOHANDCROSSBOW>500</TWOHANDCROSSBOW>
 			</effect>
 		</effects>

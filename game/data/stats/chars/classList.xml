@@ -19,7 +19,7 @@
 	<class classId="16" name="Bishop" parentClassId="15" />
 	<class classId="17" name="Prophet" parentClassId="15" />
 	<class classId="18" name="Elven Fighter" />
-	<class classId="19" name="Elven Knight" parentClassId="18" />
+	<class classId="19" name="Creo" parentClassId="18" />
 	<class classId="20" name="Temple Knight" parentClassId="19" />
 	<class classId="21" name="Sword Singer" parentClassId="19" />
 	<class classId="22" name="Elven Scout" parentClassId="18" />

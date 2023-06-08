@@ -53,7 +53,7 @@
 			<slowSwim>50</slowSwim>
 			<fastSwim>50</fastSwim>
 		</baseMoveSpd>
-		<baseBreath>150</baseBreath>
+		<baseBreath>350</baseBreath>
 		<baseSafeFall>350</baseSafeFall>
 		<collisionMale>
 			<radius>7.5</radius>

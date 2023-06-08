@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c083f3f-2bc8-4e3f-9985-b4509303bc4a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/game/data/stats/items/06300-06399.xml" beforeDir="false" afterPath="$PROJECT_DIR$/game/data/stats/items/06300-06399.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/config/Custom/CommunityBoard.ini" beforeDir="false" afterPath="$PROJECT_DIR$/game/config/Custom/CommunityBoard.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/data/skillTrees/1stClass/ElvenKnight.xml" beforeDir="false" afterPath="$PROJECT_DIR$/game/data/skillTrees/1stClass/ElvenKnight.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/data/stats/chars/baseStats/ElvenFighter.xml" beforeDir="false" afterPath="$PROJECT_DIR$/game/data/stats/chars/baseStats/ElvenFighter.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/data/stats/chars/baseStats/ElvenKnight.xml" beforeDir="false" afterPath="$PROJECT_DIR$/game/data/stats/chars/baseStats/ElvenKnight.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/data/stats/chars/classList.xml" beforeDir="false" afterPath="$PROJECT_DIR$/game/data/stats/chars/classList.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/data/stats/items/11100-11199.xml" beforeDir="false" afterPath="$PROJECT_DIR$/game/data/stats/items/11100-11199.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/game/data/stats/items/96900-96999.xml" beforeDir="false" afterPath="$PROJECT_DIR$/game/data/stats/items/96900-96999.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/data/stats/npcs/32000-32099.xml" beforeDir="false" afterPath="$PROJECT_DIR$/game/data/stats/npcs/32000-32099.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/data/stats/skills/00100-00199.xml" beforeDir="false" afterPath="$PROJECT_DIR$/game/data/stats/skills/00100-00199.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/data/stats/skills/03800-03899.xml" beforeDir="false" afterPath="$PROJECT_DIR$/game/data/stats/skills/03800-03899.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/data/stats/skills/11100-11199.xml" beforeDir="false" afterPath="$PROJECT_DIR$/game/data/stats/skills/11100-11199.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/data/stats/skills/30600-30699.xml" beforeDir="false" afterPath="$PROJECT_DIR$/game/data/stats/skills/30600-30699.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/data/stats/skills/55000-55099.xml" beforeDir="false" afterPath="$PROJECT_DIR$/game/data/stats/skills/55000-55099.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/game/data/skillTrees/1stClass/ElvenKnight.xml" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -21,12 +36,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

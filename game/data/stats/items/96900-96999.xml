@@ -54,11 +54,11 @@
 		<set name="is_clan_depositable" val="false" />
 		<set name="is_mailable" val="false" />
 	</item>
-	<item id="96958" name="Miner start blunt" type="Weapon">
+	<item id="96958" name="Молот ремеслиника" type="Weapon">
 		<!-- Кирка для добычи руды -->
 		<set name="icon" val="icon.weapon_basalt_battlehammer_i00" />
 		<set name="default_action" val="EQUIP" />
-		<set name="weapon_type" val="WBLUNT" />
+		<set name="weapon_type" val="BLUNT" />
 		<set name="bodypart" val="rhand" />
 		<set name="damage_range" val="0;0;40;120" />
 		<set name="immediate_effect" val="true" />
